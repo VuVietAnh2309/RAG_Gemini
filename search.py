@@ -63,5 +63,7 @@ def generate_response_with_rag(query, api_key):
         [f"Câu hỏi: {q}\nCâu trả lời: {a}\nNgữ cảnh: {c}" for q, a, c in zip(relevant_questions, relevant_answers, relevant_contexts)]
     )
 
-    combined_question = f"Với thông tin sau đây:\n{combined_context}\nhãy trả lời câu hỏi: {query}"
+    # combined_question = f"Với thông tin sau đây:\n{combined_context}\nhãy trả lời câu hỏi: {query}"
+    combined_question = f"Với các thông tin sau đây:\n{combined_context}\nHãy trả lời câu hỏi sau đây mà không nhắc lại thông tin ngữ cảnh, có thể suy luận để trả lời\nCâu hỏi: {query}"
+
     return call_gemini_api(combined_question, api_key)
