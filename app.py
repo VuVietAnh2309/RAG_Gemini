@@ -30,9 +30,41 @@ def generate_response_stream(user_input, chat_history):
 
 # CSS cho giao diện
 custom_css = """
-#title { font-size: 3em; text-align: center; font-weight: bold; color: #333; }
-#interface { background-color: #f5f5f5; padding: 30px; border-radius: 5px; }
-#chatbot { width: 90%; height: 700px; padding: 15px; background-color: #fff; border-radius: 10px; font-size: 2.0em; }
+#title {
+    font-size: 3em;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #333;
+}
+
+#interface {
+    background-color: #f5f5f5;
+    padding: 30px;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#chatbot {
+    width: 90%; /* Đảm bảo khung chatbot chiếm 90% chiều rộng của vùng chứa */
+    height: 700px; /* Tăng chiều cao của chatbot */
+    overflow-y: auto; /* Cho phép cuộn theo chiều dọc nếu nội dung dài */
+    word-wrap: break-word; /* Xuống dòng khi văn bản quá dài */
+    padding: 15px; /* Đảm bảo không gian nội dung thoáng */
+    background-color: #ffffff;
+    border-radius: 10px;
+    font-size: 2.0em;
+    line-height: 1.5;
+    white-space: normal; /* Đảm bảo văn bản xuống dòng tự nhiên */
+}
+
+#chatbot p {
+    margin: 0;
+}
 """
 
 # Giao diện Gradio
