@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 import numpy as np
 
 # Đường dẫn đến folder chứa các file QA
-folder_path = r'C:\Users\Acer\OneDrive - Hanoi University of Science and Technology\Desktop\Data\RAG_Gemini\Data'
+folder_path = '/content/RAG_Gemini/Data'
 
 # Load mô hình Sentence Transformer cho tiếng Việt (phobert)
 model = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2', device='cpu')
