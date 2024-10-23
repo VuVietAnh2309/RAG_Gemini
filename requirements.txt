@@ -1,0 +1,6 @@
+faiss-cpu
+sentence-transformers
+gradio
+python-docx
+transformers
+requests
