@@ -68,18 +68,18 @@ custom_css = """
 """
 
 # Giao diện Gradio
-with gr.Blocks(css=custom_css) as iface:
-    with gr.Column():
+with gr.Blocks() as iface:
+    with gr.Column():  # Sắp xếp các thành phần theo chiều dọc
         gr.Markdown("<h1 id='title'>Hệ Thống Hỏi Đáp Y Tế VSS AI</h1>")
+        gr.Markdown("Nhập câu hỏi của bạn vào ô bên dưới và nhận phản hồi lại từ hệ thống của chúng tôi.")
         chatbot = gr.Chatbot(elem_id="chatbot", label="Trò chuyện")
-        user_input = gr.Textbox(label="Nhập câu hỏi của bạn", placeholder="Nhập câu hỏi tại đây")
+        user_input = gr.Textbox(label="Nhập câu hỏi của bạn tại đây", placeholder="Ví dụ: Các vấn đề bạn cần hỗ trợ là gì?")
         submit_button = gr.Button("Gửi câu hỏi")
 
-    # Xử lý gửi câu hỏi
+    # Định nghĩa hành vi khi gửi câu hỏi
     user_input.submit(generate_response_stream, inputs=[user_input, gr.State([])], outputs=[chatbot])
     submit_button.click(generate_response_stream, inputs=[user_input, gr.State([])], outputs=[chatbot])
-    
-    # Xóa nội dung textbox sau khi gửi câu hỏi
+
     submit_button.click(lambda x: gr.update(value=""), None, [user_input], queue=False)
 
 # Tăng concurrency và threads để tối ưu hiệu năng
