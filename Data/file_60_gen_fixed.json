@@ -1,0 +1,1802 @@
+[
+    {
+        "id": 1,
+        "question": "Phần mềm quản lý bệnh viện dùng để làm gì?",
+        "answer": "Phần mềm quản lý bệnh viện giúp quản lý thông tin bệnh nhân, các y lệnh, viện phí và hồ sơ điều trị.",
+        "context": "Phần mềm quản lý bệnh viện giúp quản lý thông tin bệnh nhân, các y lệnh, viện phí và hồ sơ điều trị."
+    },
+    {
+        "id": 2,
+        "question": "Màn hình chính của buồng bệnh hiển thị những thông tin gì?",
+        "answer": "Màn hình chính của buồng bệnh hiển thị danh sách bệnh nhân, các y lệnh và thông tin viện phí.",
+        "context": "Màn hình chính của buồng bệnh hiển thị danh sách bệnh nhân, các y lệnh và thông tin viện phí."
+    },
+    {
+        "id": 3,
+        "question": "Danh sách bệnh nhân dùng để làm gì?",
+        "answer": "Danh sách bệnh nhân giúp tra cứu thông tin hành chính và bổ sung thông tin của bệnh nhân.",
+        "context": "Danh sách bệnh nhân giúp tra cứu thông tin hành chính và bổ sung thông tin của bệnh nhân."
+    },
+    {
+        "id": 4,
+        "question": "Ý nghĩa của cảnh báo viện phí màu đỏ là gì?",
+        "answer": "Cảnh báo màu đỏ cho biết bệnh nhân đang thiếu viện phí và vượt quá mức độ cho phép.",
+        "context": "Cảnh báo màu đỏ cho biết bệnh nhân đang thiếu viện phí và vượt quá mức độ cho phép."
+    },
+    {
+        "id": 5,
+        "question": "Chức năng hồ sơ điều trị dùng để làm gì?",
+        "answer": "Chức năng hồ sơ điều trị giúp quản lý hồ sơ bệnh án của bệnh nhân, tra cứu và chỉnh sửa thông tin.",
+        "context": "Chức năng hồ sơ điều trị giúp quản lý hồ sơ bệnh án của bệnh nhân, tra cứu và chỉnh sửa thông tin."
+    },
+    {
+        "id": 6,
+        "question": "Lịch sử điều trị của bệnh nhân giúp ích gì?",
+        "answer": "Lịch sử điều trị giúp tra cứu toàn bộ tiền sử bệnh và chẩn đoán của bệnh nhân qua các lần khám.",
+        "context": "Lịch sử điều trị giúp tra cứu toàn bộ tiền sử bệnh và chẩn đoán của bệnh nhân qua các lần khám."
+    },
+    {
+        "id": 7,
+        "question": "Lĩnh trả là chức năng gì?",
+        "answer": "Lĩnh trả là chức năng tổng hợp phiếu lĩnh và phiếu trả thuốc cho kho.",
+        "context": "Lĩnh trả là chức năng tổng hợp phiếu lĩnh và phiếu trả thuốc cho kho."
+    },
+    {
+        "id": 8,
+        "question": "Chuyển khoa bệnh nhân cần lưu ý điều gì?",
+        "answer": "Thời gian vào khoa cần chính xác và không tự ý thay đổi khi chuyển khoa.",
+        "context": "Thời gian vào khoa cần chính xác và không tự ý thay đổi khi chuyển khoa."
+    },
+    {
+        "id": 9,
+        "question": "Làm thế nào để tổng hợp phiếu lĩnh thuốc?",
+        "answer": "Tổng hợp phiếu lĩnh bằng cách chọn kho và các đơn thuốc, sau đó nhấn nút tổng hợp để hoàn thành.",
+        "context": "Tổng hợp phiếu lĩnh bằng cách chọn kho và các đơn thuốc, sau đó nhấn nút tổng hợp để hoàn thành."
+    },
+    {
+        "id": 10,
+        "question": "Chức năng 'Tạo tờ điều trị' có công dụng gì?",
+        "answer": "Chức năng này cho phép điều dưỡng thực hiện y lệnh và ghi vào tờ điều trị hàng ngày.",
+        "context": "Chức năng này cho phép điều dưỡng thực hiện y lệnh và ghi vào tờ điều trị hàng ngày."
+    },
+    {
+        "id": 11,
+        "question": "Chức năng 'Chăm Sóc' trong phần mềm hoạt động như thế nào?",
+        "answer": "Chăm Sóc cho phép điều dưỡng tạo phiếu chăm sóc bệnh nhân và ghi lại thông tin chăm sóc.",
+        "context": "Chăm Sóc cho phép điều dưỡng tạo phiếu chăm sóc bệnh nhân và ghi lại thông tin chăm sóc."
+    },
+    {
+        "id": 12,
+        "question": "Lỗi thường gặp khi chỉ định dịch vụ trong buồng bệnh là gì?",
+        "answer": "Lỗi thường gặp là chỉ định nhầm hoặc thừa dịch vụ kỹ thuật, thuốc hoặc vật tư.",
+        "context": "Lỗi thường gặp là chỉ định nhầm hoặc thừa dịch vụ kỹ thuật, thuốc hoặc vật tư."
+    },
+    {
+        "id": 13,
+        "question": "Làm thế nào để hủy dịch vụ đã chỉ định nhầm trong buồng bệnh?",
+        "answer": "Liên hệ với bác sĩ để hủy dịch vụ và sau đó xóa dịch vụ khỏi danh sách y lệnh.",
+        "context": "Liên hệ với bác sĩ để hủy dịch vụ và sau đó xóa dịch vụ khỏi danh sách y lệnh."
+    },
+    {
+        "id": 14,
+        "question": "Khi nào cần hủy phiếu tổng hợp thuốc?",
+        "answer": "Cần hủy phiếu tổng hợp nếu phát hiện sai sót trong danh sách thuốc hoặc thông tin xuất thuốc.",
+        "context": "Cần hủy phiếu tổng hợp nếu phát hiện sai sót trong danh sách thuốc hoặc thông tin xuất thuốc."
+    },
+    {
+        "id": 15,
+        "question": "Danh sách xuất dùng để làm gì?",
+        "answer": "Danh sách xuất giúp theo dõi các phiếu xuất hao phí của khoa, có thể chỉnh sửa hoặc in lại.",
+        "context": "Danh sách xuất giúp theo dõi các phiếu xuất hao phí của khoa, có thể chỉnh sửa hoặc in lại."
+    },
+    {
+        "id": 16,
+        "question": "Chức năng 'Chỉ định dịch vụ' hoạt động như thế nào?",
+        "answer": "Chỉ định dịch vụ cho phép bác sĩ chọn các dịch vụ kỹ thuật như xét nghiệm, chẩn đoán hình ảnh cho bệnh nhân.",
+        "context": "Chỉ định dịch vụ cho phép bác sĩ chọn các dịch vụ kỹ thuật như xét nghiệm, chẩn đoán hình ảnh cho bệnh nhân."
+    },
+    {
+        "id": 17,
+        "question": "Làm thế nào để chọn thuốc trong phần mềm?",
+        "answer": "Tìm thuốc trong ô tìm kiếm, nhập thông tin số ngày, số lượng, sau đó bổ sung vào đơn thuốc.",
+        "context": "Tìm thuốc trong ô tìm kiếm, nhập thông tin số ngày, số lượng, sau đó bổ sung vào đơn thuốc."
+    },
+    {
+        "id": 18,
+        "question": "Làm thế nào để tạo phiếu công khai thuốc theo ngày?",
+        "answer": "Chọn bệnh nhân, sau đó chọn chức năng công khai thuốc theo ngày và nhấn tạo phiếu.",
+        "context": "Chọn bệnh nhân, sau đó chọn chức năng công khai thuốc theo ngày và nhấn tạo phiếu."
+    },
+    {
+        "id": 19,
+        "question": "Khi nào cần kết thúc điều trị cho bệnh nhân?",
+        "answer": "Kết thúc điều trị khi bệnh nhân khỏi, chuyển viện hoặc tử vong.",
+        "context": "Kết thúc điều trị khi bệnh nhân khỏi, chuyển viện hoặc tử vong."
+    },
+    {
+        "id": 20,
+        "question": "Chuyển khoa sai có thể gây ra hậu quả gì?",
+        "answer": "Chuyển khoa sai có thể làm bệnh nhân không xuất hiện trong danh sách khoa và cần sửa lại thông tin.",
+        "context": "Chuyển khoa sai có thể làm bệnh nhân không xuất hiện trong danh sách khoa và cần sửa lại thông tin."
+    },
+    {
+        "id": 21,
+        "question": "Những thông tin gì cần điền khi kết thúc điều trị?",
+        "answer": "Cần điền kết quả điều trị, bệnh chính và tình trạng ra viện của bệnh nhân.",
+        "context": "Cần điền kết quả điều trị, bệnh chính và tình trạng ra viện của bệnh nhân."
+    },
+    {
+        "id": 22,
+        "question": "Hồ sơ điều trị dùng để xem thông tin gì của bệnh nhân?",
+        "answer": "Hồ sơ điều trị cho phép xem thông tin điều trị hiện tại và lịch sử điều trị của bệnh nhân.",
+        "context": "Hồ sơ điều trị cho phép xem thông tin điều trị hiện tại và lịch sử điều trị của bệnh nhân."
+    },
+    {
+        "id": 23,
+        "question": "Làm sao để sửa sai trong hồ sơ điều trị?",
+        "answer": "Có thể sửa thông tin sai trong hồ sơ điều trị bằng cách lật lại hồ sơ và chọn chức năng sửa.",
+        "context": "Có thể sửa thông tin sai trong hồ sơ điều trị bằng cách lật lại hồ sơ và chọn chức năng sửa."
+    },
+    {
+        "id": 24,
+        "question": "Lỗi không chuyển được khoa thường do nguyên nhân nào?",
+        "answer": "Lỗi không chuyển được khoa thường do thời gian chuyển khoa lớn hơn thời gian vào khoa tiếp theo.",
+        "context": "Lỗi không chuyển được khoa thường do thời gian chuyển khoa lớn hơn thời gian vào khoa tiếp theo."
+    },
+    {
+        "id": 25,
+        "question": "Phiếu lĩnh và phiếu trả khác nhau như thế nào?",
+        "answer": "Phiếu lĩnh tổng hợp thuốc từ kho, còn phiếu trả dùng để trả thuốc về kho nếu không sử dụng.",
+        "context": "Phiếu lĩnh tổng hợp thuốc từ kho, còn phiếu trả dùng để trả thuốc về kho nếu không sử dụng."
+    },
+    {
+        "id": 26,
+        "question": "Danh sách y lệnh có chức năng gì?",
+        "answer": "Danh sách y lệnh giúp bác sĩ xem và quản lý các y lệnh đã chỉ định cho bệnh nhân.",
+        "context": "Danh sách y lệnh giúp bác sĩ xem và quản lý các y lệnh đã chỉ định cho bệnh nhân."
+    },
+    {
+        "id": 27,
+        "question": "Làm thế nào để thêm phiếu chăm sóc bệnh nhân?",
+        "answer": "Nhấp chuột phải vào bệnh nhân và chọn chức năng chăm sóc, sau đó nhập thông tin phiếu chăm sóc.",
+        "context": "Nhấp chuột phải vào bệnh nhân và chọn chức năng chăm sóc, sau đó nhập thông tin phiếu chăm sóc."
+    },
+    {
+        "id": 28,
+        "question": "Kết thúc điều trị được thực hiện thế nào?",
+        "answer": "Điền đầy đủ thông tin điều trị, kết quả và tình trạng ra viện, sau đó lưu và in bảng kê cho bệnh nhân.",
+        "context": "Điền đầy đủ thông tin điều trị, kết quả và tình trạng ra viện, sau đó lưu và in bảng kê cho bệnh nhân."
+    },
+    {
+        "id": 29,
+        "question": "Lỗi chỉ định thừa dịch vụ có thể xảy ra khi nào?",
+        "answer": "Lỗi chỉ định thừa dịch vụ có thể xảy ra khi nhập sai thông tin dịch vụ trong buồng bệnh.",
+        "context": "Lỗi chỉ định thừa dịch vụ có thể xảy ra khi nhập sai thông tin dịch vụ trong buồng bệnh."
+    },
+    {
+        "id": 30,
+        "question": "Màu sắc cảnh báo viện phí có ý nghĩa gì?",
+        "answer": "Màu cam: thiếu viện phí dưới mức cho phép, màu đỏ: vượt quá mức cho phép, màu đen: không thiếu viện phí.",
+        "context": "Màu cam: thiếu viện phí dưới mức cho phép, màu đỏ: vượt quá mức cho phép, màu đen: không thiếu viện phí."
+    },
+    {
+        "id": 31,
+        "question": "Quá trình tiếp nhận bệnh nhân vào khoa được thực hiện như thế nào?",
+        "answer": "Nhân viên trực tại khoa sẽ đăng ký cho bệnh nhân, xác lập đối tượng điều trị nội trú và đưa vào buồng bệnh.",
+        "context": "Nhân viên trực tại khoa sẽ đăng ký cho bệnh nhân, xác lập đối tượng điều trị nội trú và đưa vào buồng bệnh."
+    },
+    {
+        "id": 32,
+        "question": "Khi chuyển bệnh nhân từ phòng khám vào khoa điều trị cần chú ý điều gì?",
+        "answer": "Bác sĩ cần xử lý tiếp nhận và phân buồng giường cho bệnh nhân dựa trên danh sách chờ.",
+        "context": "Bác sĩ cần xử lý tiếp nhận và phân buồng giường cho bệnh nhân dựa trên danh sách chờ."
+    },
+    {
+        "id": 33,
+        "question": "Có thể tìm kiếm bệnh nhân trong buồng điều trị bằng cách nào?",
+        "answer": "Sử dụng chức năng tìm kiếm nhanh trong giao diện buồng bệnh để tìm bệnh nhân theo tên hoặc mã số.",
+        "context": "Sử dụng chức năng tìm kiếm nhanh trong giao diện buồng bệnh để tìm bệnh nhân theo tên hoặc mã số."
+    },
+    {
+        "id": 34,
+        "question": "Chức năng 'Chỉ Định Dịch Vụ' hoạt động ra sao?",
+        "answer": "Bác sĩ chọn các dịch vụ kỹ thuật như xét nghiệm hoặc siêu âm, sau đó nhấn lưu để hoàn tất chỉ định.",
+        "context": "Bác sĩ chọn các dịch vụ kỹ thuật như xét nghiệm hoặc siêu âm, sau đó nhấn lưu để hoàn tất chỉ định."
+    },
+    {
+        "id": 35,
+        "question": "Làm sao để chỉ định dịch vụ xét nghiệm cho bệnh nhân?",
+        "answer": "Chọn nhóm dịch vụ đã cấu hình trước hoặc tìm từ khóa dịch vụ, sau đó nhấn lưu in hoặc lưu thường.",
+        "context": "Chọn nhóm dịch vụ đã cấu hình trước hoặc tìm từ khóa dịch vụ, sau đó nhấn lưu in hoặc lưu thường."
+    },
+    {
+        "id": 36,
+        "question": "Có thể thêm dịch vụ kỹ thuật vào danh sách chỉ định như thế nào?",
+        "answer": "Sử dụng ô tìm kiếm để nhập từ khóa, chọn dịch vụ cần thiết, rồi nhấn lưu.",
+        "context": "Sử dụng ô tìm kiếm để nhập từ khóa, chọn dịch vụ cần thiết, rồi nhấn lưu."
+    },
+    {
+        "id": 37,
+        "question": "Chỉ định thuốc trong điều trị nội trú được thực hiện như thế nào?",
+        "answer": "Chọn thuốc từ kho, nhập số lượng và hướng dẫn, sau đó nhấn bổ sung để hoàn tất đơn thuốc.",
+        "context": "Chọn thuốc từ kho, nhập số lượng và hướng dẫn, sau đó nhấn bổ sung để hoàn tất đơn thuốc."
+    },
+    {
+        "id": 38,
+        "question": "Phiếu lĩnh thuốc được tổng hợp bằng cách nào?",
+        "answer": "Điều dưỡng chọn tổng hợp thuốc theo một hoặc nhiều kho, sau đó nhấn tổng hợp để in phiếu.",
+        "context": "Điều dưỡng chọn tổng hợp thuốc theo một hoặc nhiều kho, sau đó nhấn tổng hợp để in phiếu."
+    },
+    {
+        "id": 39,
+        "question": "Làm sao để chọn kho xuất thuốc cho bệnh nhân?",
+        "answer": "Chọn kho từ danh sách kho thuốc, sau đó chọn các loại thuốc cần xuất.",
+        "context": "Chọn kho từ danh sách kho thuốc, sau đó chọn các loại thuốc cần xuất."
+    },
+    {
+        "id": 40,
+        "question": "Làm thế nào để tạo phiếu trả thuốc?",
+        "answer": "Chọn các phiếu thuốc cần trả, sau đó nhấn nút tổng hợp để in phiếu trả cho kho.",
+        "context": "Chọn các phiếu thuốc cần trả, sau đó nhấn nút tổng hợp để in phiếu trả cho kho."
+    },
+    {
+        "id": 41,
+        "question": "Các trạng thái của phiếu lĩnh thuốc là gì?",
+        "answer": "Các trạng thái bao gồm: yêu cầu, đã duyệt, và đã thực xuất.",
+        "context": "Các trạng thái bao gồm: yêu cầu, đã duyệt, và đã thực xuất."
+    },
+    {
+        "id": 42,
+        "question": "Tờ điều trị của bệnh nhân chứa những thông tin gì?",
+        "answer": "Tờ điều trị chứa diễn biến bệnh, phương pháp xử lý và danh sách y lệnh của bệnh nhân.",
+        "context": "Tờ điều trị chứa diễn biến bệnh, phương pháp xử lý và danh sách y lệnh của bệnh nhân."
+    },
+    {
+        "id": 43,
+        "question": "Chức năng chăm sóc bệnh nhân được thực hiện như thế nào?",
+        "answer": "Điều dưỡng nhấp chuột phải vào bệnh nhân, chọn chức năng chăm sóc và nhập thông tin vào phiếu chăm sóc.",
+        "context": "Điều dưỡng nhấp chuột phải vào bệnh nhân, chọn chức năng chăm sóc và nhập thông tin vào phiếu chăm sóc."
+    },
+    {
+        "id": 44,
+        "question": "Phiếu công khai thuốc được tạo ra trong những trường hợp nào?",
+        "answer": "Phiếu công khai thuốc được tạo khi cần công khai danh sách thuốc và vật tư sử dụng theo ngày hoặc giai đoạn.",
+        "context": "Phiếu công khai thuốc được tạo khi cần công khai danh sách thuốc và vật tư sử dụng theo ngày hoặc giai đoạn."
+    },
+    {
+        "id": 45,
+        "question": "Cách tạo phiếu công khai thuốc theo giai đoạn như thế nào?",
+        "answer": "Chọn phiếu công khai thuốc theo giai đoạn, chọn thời gian và nhấn nút tạo để hoàn tất.",
+        "context": "Chọn phiếu công khai thuốc theo giai đoạn, chọn thời gian và nhấn nút tạo để hoàn tất."
+    },
+    {
+        "id": 46,
+        "question": "Làm sao để kết thúc điều trị cho bệnh nhân trong phần mềm?",
+        "answer": "Chọn kết thúc điều trị, nhập kết quả và tình trạng ra viện, sau đó nhấn lưu và in giấy ra viện.",
+        "context": "Chọn kết thúc điều trị, nhập kết quả và tình trạng ra viện, sau đó nhấn lưu và in giấy ra viện."
+    },
+    {
+        "id": 47,
+        "question": "Thông tin gì cần nhập khi kết thúc điều trị?",
+        "answer": "Cần nhập kết quả điều trị (khỏi, tử vong, không thay đổi), bệnh chính và tình trạng ra viện của bệnh nhân.",
+        "context": "Cần nhập kết quả điều trị (khỏi, tử vong, không thay đổi), bệnh chính và tình trạng ra viện của bệnh nhân."
+    },
+    {
+        "id": 48,
+        "question": "Làm thế nào để xem hồ sơ điều trị của bệnh nhân trong phần mềm?",
+        "answer": "Chọn hồ sơ điều trị trên thanh công cụ và tìm kiếm bệnh nhân theo tên hoặc mã số để xem chi tiết.",
+        "context": "Chọn hồ sơ điều trị trên thanh công cụ và tìm kiếm bệnh nhân theo tên hoặc mã số để xem chi tiết."
+    },
+    {
+        "id": 49,
+        "question": "Khi nào cần sử dụng chức năng lật lại hồ sơ điều trị?",
+        "answer": "Chức năng này được sử dụng khi cần sửa lại thông tin của bệnh nhân đã kết thúc điều trị.",
+        "context": "Chức năng này được sử dụng khi cần sửa lại thông tin của bệnh nhân đã kết thúc điều trị."
+    },
+    {
+        "id": 50,
+        "question": "Lỗi chỉ định nhầm dịch vụ xảy ra trong trường hợp nào?",
+        "answer": "Lỗi xảy ra khi chỉ định dịch vụ sai hoặc thừa trong quá trình tạo y lệnh cho bệnh nhân.",
+        "context": "Lỗi xảy ra khi chỉ định dịch vụ sai hoặc thừa trong quá trình tạo y lệnh cho bệnh nhân."
+    },
+    {
+        "id": 51,
+        "question": "Cách khắc phục lỗi chỉ định nhầm dịch vụ kỹ thuật như thế nào?",
+        "answer": "Liên hệ bác sĩ để hủy dịch vụ đã chỉ định, sau đó xóa hoặc sửa dịch vụ sai.",
+        "context": "Liên hệ bác sĩ để hủy dịch vụ đã chỉ định, sau đó xóa hoặc sửa dịch vụ sai."
+    },
+    {
+        "id": 52,
+        "question": "Lỗi chuyển khoa sai thường do nguyên nhân gì?",
+        "answer": "Lỗi xảy ra khi chọn sai khoa trong quá trình chuyển bệnh nhân từ một khoa này sang khoa khác.",
+        "context": "Lỗi xảy ra khi chọn sai khoa trong quá trình chuyển bệnh nhân từ một khoa này sang khoa khác."
+    },
+    {
+        "id": 53,
+        "question": "Phải làm gì khi không chuyển được khoa cho bệnh nhân?",
+        "answer": "Sửa lại thời gian vào khoa tiếp theo để phù hợp với thời gian chuyển khoa.",
+        "context": "Sửa lại thời gian vào khoa tiếp theo để phù hợp với thời gian chuyển khoa."
+    },
+    {
+        "id": 54,
+        "question": "Danh sách y lệnh hiển thị thông tin gì?",
+        "answer": "Danh sách y lệnh hiển thị tất cả các y lệnh của bệnh nhân, bao gồm thuốc và dịch vụ chỉ định.",
+        "context": "Danh sách y lệnh hiển thị tất cả các y lệnh của bệnh nhân, bao gồm thuốc và dịch vụ chỉ định."
+    },
+    {
+        "id": 55,
+        "question": "Làm thế nào để chỉnh sửa y lệnh của bệnh nhân?",
+        "answer": "Nhấp chuột phải vào y lệnh, chọn sửa hoặc xóa nếu y lệnh chưa được thực hiện.",
+        "context": "Nhấp chuột phải vào y lệnh, chọn sửa hoặc xóa nếu y lệnh chưa được thực hiện."
+    },
+    {
+        "id": 56,
+        "question": "Hồ sơ điều trị giúp ích gì cho bác sĩ?",
+        "answer": "Hồ sơ điều trị giúp bác sĩ tra cứu, quản lý thông tin điều trị và lịch sử khám bệnh của bệnh nhân.",
+        "context": "Hồ sơ điều trị giúp bác sĩ tra cứu, quản lý thông tin điều trị và lịch sử khám bệnh của bệnh nhân."
+    },
+    {
+        "id": 57,
+        "question": "Phiếu lĩnh thuốc cần tổng hợp khi nào?",
+        "answer": "Phiếu lĩnh thuốc được tổng hợp sau khi điều dưỡng hoàn tất chỉ định thuốc cho bệnh nhân.",
+        "context": "Phiếu lĩnh thuốc được tổng hợp sau khi điều dưỡng hoàn tất chỉ định thuốc cho bệnh nhân."
+    },
+    {
+        "id": 58,
+        "question": "Cách thêm dịch vụ kỹ thuật vào y lệnh ra sao?",
+        "answer": "Sử dụng chức năng chỉ định dịch vụ, tìm kiếm dịch vụ cần thêm, sau đó nhấn lưu.",
+        "context": "Sử dụng chức năng chỉ định dịch vụ, tìm kiếm dịch vụ cần thêm, sau đó nhấn lưu."
+    },
+    {
+        "id": 59,
+        "question": "Làm sao để xem lại phiếu lĩnh đã tổng hợp?",
+        "answer": "Sử dụng danh sách phiếu lĩnh trong phần mềm để xem lại hoặc in lại phiếu đã tổng hợp.",
+        "context": "Sử dụng danh sách phiếu lĩnh trong phần mềm để xem lại hoặc in lại phiếu đã tổng hợp."
+    },
+    {
+        "id": 60,
+        "question": "Danh sách bệnh nhân trong buồng điều trị có tác dụng gì?",
+        "answer": "Danh sách bệnh nhân giúp theo dõi tình trạng điều trị của từng bệnh nhân trong buồng.",
+        "context": "Danh sách bệnh nhân giúp theo dõi tình trạng điều trị của từng bệnh nhân trong buồng."
+    },
+    {
+        "id": 1,
+        "question": "Cách đăng nhập vào phần mềm kế toán kho như thế nào?",
+        "answer": "Người dùng điền tên đăng nhập và mật khẩu do IT cung cấp, sau đó chọn kho cần sử dụng.",
+        "context": "Người dùng điền tên đăng nhập và mật khẩu do IT cung cấp, sau đó chọn kho cần sử dụng."
+    },
+    {
+        "id": 2,
+        "question": "Có những hình thức nhập kho nào trong phần mềm?",
+        "answer": "Có nhiều hình thức như nhập từ nhà cung cấp, nhập kiểm kê, nhập đầu kỳ, nhập chuyển kho, nhập khác và nhập hàng tặng.",
+        "context": "Có nhiều hình thức như nhập từ nhà cung cấp, nhập kiểm kê, nhập đầu kỳ, nhập chuyển kho, nhập khác và nhập hàng tặng."
+    },
+    {
+        "id": 3,
+        "question": "Khi nhập từ nhà cung cấp, cần điền những thông tin gì?",
+        "answer": "Người dùng cần chọn nhập theo thầu hay ngoài thầu, nhà cung cấp và số chứng từ (hóa đơn).",
+        "context": "Người dùng cần chọn nhập theo thầu hay ngoài thầu, nhà cung cấp và số chứng từ (hóa đơn)."
+    },
+    {
+        "id": 4,
+        "question": "Nhập kiểm kê được thực hiện như thế nào?",
+        "answer": "Nhập kiểm kê được sử dụng khi cần tăng lên do kiểm kê, và các thông tin thầu, nhà cung cấp sẽ ẩn đi.",
+        "context": "Nhập kiểm kê được sử dụng khi cần tăng lên do kiểm kê, và các thông tin thầu, nhà cung cấp sẽ ẩn đi."
+    },
+    {
+        "id": 5,
+        "question": "Nhập đầu kỳ có đặc điểm gì?",
+        "answer": "Nhập đầu kỳ dùng để nhập tồn đầu cho kho, không cần điền thông tin thầu và nhà cung cấp.",
+        "context": "Nhập đầu kỳ dùng để nhập tồn đầu cho kho, không cần điền thông tin thầu và nhà cung cấp."
+    },
+    {
+        "id": 6,
+        "question": "Khi nhập hàng khác, cần chú ý điều gì?",
+        "answer": "Người dùng cần điền lý do nhập để phục vụ cho việc thống kê và báo cáo sau này.",
+        "context": "Người dùng cần điền lý do nhập để phục vụ cho việc thống kê và báo cáo sau này."
+    },
+    {
+        "id": 7,
+        "question": "Làm thế nào để tạo báo cáo trong phần mềm kế toán kho?",
+        "answer": "Chọn biểu tượng báo cáo, sau đó có thể tìm kiếm, sửa tên, xóa, chia sẻ, tải về hoặc in báo cáo ngay trên phần mềm.",
+        "context": "Chọn biểu tượng báo cáo, sau đó có thể tìm kiếm, sửa tên, xóa, chia sẻ, tải về hoặc in báo cáo ngay trên phần mềm."
+    },
+    {
+        "id": 8,
+        "question": "Báo cáo xuất nhập tồn có mã là gì?",
+        "answer": "Báo cáo xuất nhập tồn có mã MRS00105.",
+        "context": "Báo cáo xuất nhập tồn có mã MRS00105."
+    },
+    {
+        "id": 9,
+        "question": "Báo cáo nhập nhà cung cấp có mã là gì?",
+        "answer": "Báo cáo nhập nhà cung cấp có mã MRS00553.",
+        "context": "Báo cáo nhập nhà cung cấp có mã MRS00553."
+    },
+    {
+        "id": 10,
+        "question": "Báo cáo xuất trả nhà cung cấp có mã là gì?",
+        "answer": "Báo cáo xuất trả nhà cung cấp có mã TKB00013.",
+        "context": "Báo cáo xuất trả nhà cung cấp có mã TKB00013."
+    },
+    {
+        "id": 11,
+        "question": "Báo cáo nào được sử dụng để thống kê lợi nhuận gộp?",
+        "answer": "Báo cáo ThongKeLaiGop có mã MRS00297 được sử dụng để thống kê lợi nhuận gộp.",
+        "context": "Báo cáo ThongKeLaiGop có mã MRS00297 được sử dụng để thống kê lợi nhuận gộp."
+    },
+    {
+        "id": 12,
+        "question": "Báo cáo nào cho biết biến động giá thuốc?",
+        "answer": "Báo cáo BienDongGiaThuoc có mã MRS00706 cho biết biến động giá thuốc.",
+        "context": "Báo cáo BienDongGiaThuoc có mã MRS00706 cho biết biến động giá thuốc."
+    },
+    {
+        "id": 13,
+        "question": "Báo cáo chi tiết xuất thuốc cho bệnh nhân có mã là gì?",
+        "answer": "Báo cáo chi tiết xuất thuốc cho bệnh nhân có mã MRS00207.",
+        "context": "Báo cáo chi tiết xuất thuốc cho bệnh nhân có mã MRS00207."
+    },
+    {
+        "id": 14,
+        "question": "Làm thế nào để in báo cáo trực tiếp từ phần mềm?",
+        "answer": "Sau khi tạo báo cáo, người dùng có thể chọn in ngay trên phần mềm bằng cách nhấn biểu tượng in.",
+        "context": "Sau khi tạo báo cáo, người dùng có thể chọn in ngay trên phần mềm bằng cách nhấn biểu tượng in."
+    },
+    {
+        "id": 15,
+        "question": "Nhập khác trong phần mềm được sử dụng trong trường hợp nào?",
+        "answer": "Nhập khác được sử dụng khi nhập hàng không thuộc các trường hợp nhập thông thường như nhập kiểm kê hay nhập từ nhà cung cấp.",
+        "context": "Nhập khác được sử dụng khi nhập hàng không thuộc các trường hợp nhập thông thường như nhập kiểm kê hay nhập từ nhà cung cấp."
+    },
+    {
+        "id": 16,
+        "question": "Làm thế nào để xem báo cáo nhập từ nhà cung cấp nhóm theo loại?",
+        "answer": "Báo cáo BaoCaoNhapTuNCCNhomTheoLoai có mã MRS0023603 cho phép xem báo cáo nhập từ nhà cung cấp nhóm theo loại.",
+        "context": "Báo cáo BaoCaoNhapTuNCCNhomTheoLoai có mã MRS0023603 cho phép xem báo cáo nhập từ nhà cung cấp nhóm theo loại."
+    },
+    {
+        "id": 17,
+        "question": "Làm sao để sửa tên một báo cáo trong phần mềm?",
+        "answer": "Người dùng có thể chọn báo cáo, sau đó chọn chức năng sửa để thay đổi tên báo cáo theo ý muốn.",
+        "context": "Người dùng có thể chọn báo cáo, sau đó chọn chức năng sửa để thay đổi tên báo cáo theo ý muốn."
+    },
+    {
+        "id": 18,
+        "question": "Báo cáo bảng kê hóa đơn mua hàng có mã là gì?",
+        "answer": "Báo cáo BaoCaoBangKeHoaDonMuaHang có mã TKB0002001.",
+        "context": "Báo cáo BaoCaoBangKeHoaDonMuaHang có mã TKB0002001."
+    },
+    {
+        "id": 19,
+        "question": "Có thể chia sẻ báo cáo đã tạo trong phần mềm không?",
+        "answer": "Người dùng có thể chia sẻ báo cáo bằng cách chọn báo cáo cần chia sẻ và nhấn nút chia sẻ trên phần mềm.",
+        "context": "Người dùng có thể chia sẻ báo cáo bằng cách chọn báo cáo cần chia sẻ và nhấn nút chia sẻ trên phần mềm."
+    },
+    {
+        "id": 20,
+        "question": "Làm thế nào để tải về báo cáo từ phần mềm kế toán kho?",
+        "answer": "Chọn báo cáo cần tải về và nhấn nút tải về trên giao diện báo cáo.",
+        "context": "Chọn báo cáo cần tải về và nhấn nút tải về trên giao diện báo cáo."
+    },
+    {
+        "id": 21,
+        "question": "Báo cáo thuốc theo bác sĩ có mã là gì?",
+        "answer": "Báo cáo ThongKeThuocTheoBacSi có mã MRS00207.",
+        "context": "Báo cáo ThongKeThuocTheoBacSi có mã MRS00207."
+    },
+    {
+        "id": 22,
+        "question": "Giao diện nhập kho hiển thị những loại nhập nào?",
+        "answer": "Giao diện nhập kho hiển thị các loại nhập như nhập từ nhà cung cấp, nhập kiểm kê, nhập đầu kỳ, nhập khác và nhập hàng tặng.",
+        "context": "Giao diện nhập kho hiển thị các loại nhập như nhập từ nhà cung cấp, nhập kiểm kê, nhập đầu kỳ, nhập khác và nhập hàng tặng."
+    },
+    {
+        "id": 23,
+        "question": "Có thể xóa một báo cáo đã tạo không?",
+        "answer": "Người dùng có thể xóa báo cáo đã tạo bằng cách chọn báo cáo và nhấn nút xóa trên phần mềm.",
+        "context": "Người dùng có thể xóa báo cáo đã tạo bằng cách chọn báo cáo và nhấn nút xóa trên phần mềm."
+    },
+    {
+        "id": 24,
+        "question": "Cần lưu ý điều gì khi nhập khác trong kho?",
+        "answer": "Người dùng cần điền lý do cụ thể khi nhập khác để phục vụ cho việc thống kê và báo cáo.",
+        "context": "Người dùng cần điền lý do cụ thể khi nhập khác để phục vụ cho việc thống kê và báo cáo."
+    },
+    {
+        "id": 25,
+        "question": "Cách nhập thuốc vật tư từ nhà cung cấp trong phần mềm?",
+        "answer": "Chọn nhập từ nhà cung cấp, sau đó điền thông tin thầu, nhà cung cấp và số chứng từ, sau đó nhấn lưu.",
+        "context": "Chọn nhập từ nhà cung cấp, sau đó điền thông tin thầu, nhà cung cấp và số chứng từ, sau đó nhấn lưu."
+    },
+    {
+        "id": 26,
+        "question": "Có thể nhập thuốc tặng trong phần mềm như thế nào?",
+        "answer": "Người dùng chọn hình thức nhập khác và điền lý do là nhập hàng tặng, sau đó nhấn lưu để hoàn tất.",
+        "context": "Người dùng chọn hình thức nhập khác và điền lý do là nhập hàng tặng, sau đó nhấn lưu để hoàn tất."
+    },
+    {
+        "id": 27,
+        "question": "Làm thế nào để tìm kiếm báo cáo trong phần mềm?",
+        "answer": "Người dùng có thể nhập từ khóa vào ô tìm kiếm trên giao diện báo cáo để tìm báo cáo cần xem.",
+        "context": "Người dùng có thể nhập từ khóa vào ô tìm kiếm trên giao diện báo cáo để tìm báo cáo cần xem."
+    },
+    {
+        "id": 28,
+        "question": "Báo cáo xuất nhập tồn dùng để làm gì?",
+        "answer": "Báo cáo xuất nhập tồn giúp theo dõi tình hình xuất nhập và tồn kho của các mặt hàng trong kho.",
+        "context": "Báo cáo xuất nhập tồn giúp theo dõi tình hình xuất nhập và tồn kho của các mặt hàng trong kho."
+    },
+    {
+        "id": 29,
+        "question": "Có thể in lại báo cáo sau khi đã tạo không?",
+        "answer": "Người dùng có thể in lại báo cáo bất kỳ lúc nào sau khi đã tạo báo cáo trên phần mềm.",
+        "context": "Người dùng có thể in lại báo cáo bất kỳ lúc nào sau khi đã tạo báo cáo trên phần mềm."
+    },
+    {
+        "id": 30,
+        "question": "Thông tin nào cần thiết khi nhập đầu kỳ trong kho?",
+        "answer": "Khi nhập đầu kỳ, người dùng chỉ cần nhập thông tin tồn kho đầu kỳ mà không cần điền nhà cung cấp hay số chứng từ.",
+        "context": "Khi nhập đầu kỳ, người dùng chỉ cần nhập thông tin tồn kho đầu kỳ mà không cần điền nhà cung cấp hay số chứng từ."
+    },
+    {
+        "id": 31,
+        "question": "Làm sao để nhập kho từ nhà cung cấp?",
+        "answer": "Chọn nhập từ nhà cung cấp, nhập thông tin thầu, nhà cung cấp và số chứng từ, sau đó lưu lại.",
+        "context": "Chọn nhập từ nhà cung cấp, nhập thông tin thầu, nhà cung cấp và số chứng từ, sau đó lưu lại."
+    },
+    {
+        "id": 32,
+        "question": "Có những loại báo cáo nào trong phần mềm kế toán kho?",
+        "answer": "Phần mềm hỗ trợ nhiều loại báo cáo như báo cáo xuất nhập tồn, báo cáo nhập từ nhà cung cấp, báo cáo xuất trả nhà cung cấp.",
+        "context": "Phần mềm hỗ trợ nhiều loại báo cáo như báo cáo xuất nhập tồn, báo cáo nhập từ nhà cung cấp, báo cáo xuất trả nhà cung cấp."
+    },
+    {
+        "id": 33,
+        "question": "Chức năng nhập đầu kỳ trong phần mềm có vai trò gì?",
+        "answer": "Nhập đầu kỳ dùng để nhập tồn kho đầu của kho trước khi bắt đầu quản lý trong phần mềm.",
+        "context": "Nhập đầu kỳ dùng để nhập tồn kho đầu của kho trước khi bắt đầu quản lý trong phần mềm."
+    },
+    {
+        "id": 34,
+        "question": "Khi nào nên sử dụng nhập kiểm kê trong phần mềm kế toán kho?",
+        "answer": "Nhập kiểm kê được sử dụng khi có sự điều chỉnh số lượng hàng hóa sau quá trình kiểm kê thực tế.",
+        "context": "Nhập kiểm kê được sử dụng khi có sự điều chỉnh số lượng hàng hóa sau quá trình kiểm kê thực tế."
+    },
+    {
+        "id": 35,
+        "question": "Báo cáo nào dùng để theo dõi biến động giá thuốc?",
+        "answer": "Báo cáo BienDongGiaThuoc với mã MRS00706 dùng để theo dõi biến động giá thuốc.",
+        "context": "Báo cáo BienDongGiaThuoc với mã MRS00706 dùng để theo dõi biến động giá thuốc."
+    },
+    {
+        "id": 36,
+        "question": "Làm thế nào để thêm một báo cáo mới?",
+        "answer": "Người dùng chọn biểu tượng thêm báo cáo và điền các thông tin cần thiết như tên báo cáo và loại dữ liệu.",
+        "context": "Người dùng chọn biểu tượng thêm báo cáo và điền các thông tin cần thiết như tên báo cáo và loại dữ liệu."
+    },
+    {
+        "id": 37,
+        "question": "Chức năng nhập kho có thể gom nhóm các loại nhập nào?",
+        "answer": "Chức năng nhập kho gom nhóm các loại nhập từ nhà cung cấp, nhập kiểm kê, nhập đầu kỳ và nhập khác.",
+        "context": "Chức năng nhập kho gom nhóm các loại nhập từ nhà cung cấp, nhập kiểm kê, nhập đầu kỳ và nhập khác."
+    },
+    {
+        "id": 38,
+        "question": "Khi nào sử dụng chức năng nhập khác trong phần mềm?",
+        "answer": "Nhập khác được sử dụng khi hàng hóa được nhập không thuộc các loại nhập thông thường như nhập từ nhà cung cấp hoặc nhập kiểm kê.",
+        "context": "Nhập khác được sử dụng khi hàng hóa được nhập không thuộc các loại nhập thông thường như nhập từ nhà cung cấp hoặc nhập kiểm kê."
+    },
+    {
+        "id": 39,
+        "question": "Có thể tạo bao nhiêu loại báo cáo trong phần mềm kế toán kho?",
+        "answer": "Người dùng có thể tạo nhiều loại báo cáo khác nhau tùy theo quyền hạn và nhu cầu quản lý của mình.",
+        "context": "Người dùng có thể tạo nhiều loại báo cáo khác nhau tùy theo quyền hạn và nhu cầu quản lý của mình."
+    },
+    {
+        "id": 40,
+        "question": "Những thông tin bắt buộc nào cần nhập khi nhập từ nhà cung cấp?",
+        "answer": "Cần nhập thông tin thầu, nhà cung cấp và số chứng từ để hoàn thành quá trình nhập kho.",
+        "context": "Cần nhập thông tin thầu, nhà cung cấp và số chứng từ để hoàn thành quá trình nhập kho."
+    },
+    {
+        "id": 41,
+        "question": "Tại sao cần nhập lý do khi sử dụng chức năng nhập khác?",
+        "answer": "Nhập lý do giúp thống kê và báo cáo dễ dàng hơn, đảm bảo tính minh bạch trong việc nhập hàng hóa.",
+        "context": "Nhập lý do giúp thống kê và báo cáo dễ dàng hơn, đảm bảo tính minh bạch trong việc nhập hàng hóa."
+    },
+    {
+        "id": 42,
+        "question": "Làm thế nào để chỉnh sửa một báo cáo đã tạo?",
+        "answer": "Chọn báo cáo cần chỉnh sửa và nhấn nút sửa trên phần mềm để cập nhật thông tin mới.",
+        "context": "Chọn báo cáo cần chỉnh sửa và nhấn nút sửa trên phần mềm để cập nhật thông tin mới."
+    },
+    {
+        "id": 43,
+        "question": "Có thể kiểm tra báo cáo nhập xuất kho cho từng loại hàng hóa không?",
+        "answer": "Có, người dùng có thể kiểm tra báo cáo xuất nhập tồn hoặc báo cáo nhập từ nhà cung cấp nhóm theo loại hàng hóa.",
+        "context": "Có, người dùng có thể kiểm tra báo cáo xuất nhập tồn hoặc báo cáo nhập từ nhà cung cấp nhóm theo loại hàng hóa."
+    },
+    {
+        "id": 44,
+        "question": "Có cần nhập thông tin thầu khi thực hiện nhập kiểm kê không?",
+        "answer": "Không cần nhập thông tin thầu khi thực hiện nhập kiểm kê, vì đây là quá trình kiểm soát số lượng thực tế.",
+        "context": "Không cần nhập thông tin thầu khi thực hiện nhập kiểm kê, vì đây là quá trình kiểm soát số lượng thực tế."
+    },
+    {
+        "id": 45,
+        "question": "Nhập đầu kỳ cần thông tin gì để hoàn thành?",
+        "answer": "Nhập đầu kỳ chỉ cần nhập thông tin tồn kho ban đầu, không cần nhà cung cấp hay số chứng từ.",
+        "context": "Nhập đầu kỳ chỉ cần nhập thông tin tồn kho ban đầu, không cần nhà cung cấp hay số chứng từ."
+    },
+    {
+        "id": 46,
+        "question": "Làm sao để xuất báo cáo chi tiết thuốc theo bác sĩ?",
+        "answer": "Người dùng có thể chọn báo cáo ThongKeThuocTheoBacSi với mã MRS00207 để xuất dữ liệu chi tiết thuốc theo từng bác sĩ.",
+        "context": "Người dùng có thể chọn báo cáo ThongKeThuocTheoBacSi với mã MRS00207 để xuất dữ liệu chi tiết thuốc theo từng bác sĩ."
+    },
+    {
+        "id": 47,
+        "question": "Làm thế nào để tải về một báo cáo trong phần mềm?",
+        "answer": "Chọn báo cáo muốn tải về và nhấn nút tải về trên giao diện báo cáo.",
+        "context": "Chọn báo cáo muốn tải về và nhấn nút tải về trên giao diện báo cáo."
+    },
+    {
+        "id": 48,
+        "question": "Có thể chia sẻ báo cáo với người khác trên phần mềm không?",
+        "answer": "Người dùng có thể chia sẻ báo cáo với đồng nghiệp hoặc các bộ phận khác bằng cách nhấn nút chia sẻ trên phần mềm.",
+        "context": "Người dùng có thể chia sẻ báo cáo với đồng nghiệp hoặc các bộ phận khác bằng cách nhấn nút chia sẻ trên phần mềm."
+    },
+    {
+        "id": 49,
+        "question": "Làm thế nào để kiểm tra thông tin hàng hóa nhập kho?",
+        "answer": "Người dùng có thể truy cập báo cáo xuất nhập tồn để xem thông tin chi tiết về các loại hàng hóa nhập kho.",
+        "context": "Người dùng có thể truy cập báo cáo xuất nhập tồn để xem thông tin chi tiết về các loại hàng hóa nhập kho."
+    },
+    {
+        "id": 50,
+        "question": "Có thể theo dõi lợi nhuận gộp trong phần mềm không?",
+        "answer": "Người dùng có thể sử dụng báo cáo ThongKeLaiGop với mã MRS00297 để theo dõi lợi nhuận gộp.",
+        "context": "Người dùng có thể sử dụng báo cáo ThongKeLaiGop với mã MRS00297 để theo dõi lợi nhuận gộp."
+    },
+    {
+        "id": 51,
+        "question": "Chức năng nhập khác có bắt buộc thông tin nào?",
+        "answer": "Chức năng nhập khác yêu cầu người dùng điền thông tin lý do để phục vụ cho việc thống kê và báo cáo.",
+        "context": "Chức năng nhập khác yêu cầu người dùng điền thông tin lý do để phục vụ cho việc thống kê và báo cáo."
+    },
+    {
+        "id": 52,
+        "question": "Làm sao để tra cứu danh sách báo cáo đã tạo?",
+        "answer": "Người dùng có thể nhập từ khóa vào ô tìm kiếm trên giao diện báo cáo để tra cứu danh sách báo cáo đã tạo.",
+        "context": "Người dùng có thể nhập từ khóa vào ô tìm kiếm trên giao diện báo cáo để tra cứu danh sách báo cáo đã tạo."
+    },
+    {
+        "id": 53,
+        "question": "Cần những thông tin gì để nhập hàng từ nhà cung cấp?",
+        "answer": "Cần thông tin thầu, nhà cung cấp và số chứng từ để thực hiện nhập hàng từ nhà cung cấp.",
+        "context": "Cần thông tin thầu, nhà cung cấp và số chứng từ để thực hiện nhập hàng từ nhà cung cấp."
+    },
+    {
+        "id": 54,
+        "question": "Có thể xem báo cáo biến động giá thuốc không?",
+        "answer": "Có, người dùng có thể xem báo cáo biến động giá thuốc qua mã MRS00706 trong phần mềm.",
+        "context": "Có, người dùng có thể xem báo cáo biến động giá thuốc qua mã MRS00706 trong phần mềm."
+    },
+    {
+        "id": 55,
+        "question": "Báo cáo nào cho phép theo dõi chi tiết thuốc xuất cho bệnh nhân?",
+        "answer": "Báo cáo ChiTietXuatThuocChoBenhNhanCacNgay có mã MRS00207 cho phép theo dõi chi tiết.",
+        "context": "Báo cáo ChiTietXuatThuocChoBenhNhanCacNgay có mã MRS00207 cho phép theo dõi chi tiết."
+    },
+    {
+        "id": 56,
+        "question": "Nhập kiểm kê trong phần mềm có tác dụng gì?",
+        "answer": "Nhập kiểm kê được dùng để điều chỉnh số lượng hàng hóa sau khi kiểm kê thực tế kho.",
+        "context": "Nhập kiểm kê được dùng để điều chỉnh số lượng hàng hóa sau khi kiểm kê thực tế kho."
+    },
+    {
+        "id": 57,
+        "question": "Có cần in báo cáo sau khi tạo không?",
+        "answer": "Người dùng có thể chọn in báo cáo ngay hoặc in lại sau khi đã tạo trên phần mềm.",
+        "context": "Người dùng có thể chọn in báo cáo ngay hoặc in lại sau khi đã tạo trên phần mềm."
+    },
+    {
+        "id": 58,
+        "question": "Báo cáo nhập nhà cung cấp nhóm theo loại dùng để làm gì?",
+        "answer": "Báo cáo này giúp người dùng theo dõi lượng hàng nhập từ nhà cung cấp dựa theo loại hàng hóa.",
+        "context": "Báo cáo này giúp người dùng theo dõi lượng hàng nhập từ nhà cung cấp dựa theo loại hàng hóa."
+    },
+    {
+        "id": 59,
+        "question": "Có thể xóa một báo cáo trong phần mềm không?",
+        "answer": "Người dùng có thể xóa một báo cáo đã tạo bằng cách chọn báo cáo và nhấn nút xóa trên giao diện.",
+        "context": "Người dùng có thể xóa một báo cáo đã tạo bằng cách chọn báo cáo và nhấn nút xóa trên giao diện."
+    },
+    {
+        "id": 60,
+        "question": "Làm thế nào để xuất báo cáo xuất trả nhà cung cấp?",
+        "answer": "Chọn báo cáo xuất trả nhà cung cấp với mã TKB00013 để xuất thông tin liên quan.",
+        "context": "Chọn báo cáo xuất trả nhà cung cấp với mã TKB00013 để xuất thông tin liên quan."
+    },
+    {
+        "id": 1,
+        "question": "Phân hệ khám bệnh trong phần mềm quản lý bệnh viện HIS_PRO 2.0 có chức năng gì?",
+        "answer": "Phân hệ khám bệnh xử lý các vấn đề liên quan đến khám bệnh, bao gồm khám, chỉ định y lệnh CLS, kê đơn thuốc và xử trí khám.",
+        "context": "Phân hệ khám bệnh xử lý các vấn đề liên quan đến khám bệnh, bao gồm khám, chỉ định y lệnh CLS, kê đơn thuốc và xử trí khám."
+    },
+    {
+        "id": 2,
+        "question": "Đối tượng sử dụng phân hệ khám bệnh là ai?",
+        "answer": "Phân hệ khám bệnh được sử dụng bởi bác sĩ và y tá của khoa khám bệnh.",
+        "context": "Phân hệ khám bệnh được sử dụng bởi bác sĩ và y tá của khoa khám bệnh."
+    },
+    {
+        "id": 3,
+        "question": "Làm thế nào để đăng nhập vào phần mềm khám bệnh?",
+        "answer": "Người dùng cần điền tên đăng nhập và mật khẩu, sau đó chọn phòng khám phù hợp từ giao diện chọn phòng.",
+        "context": "Người dùng cần điền tên đăng nhập và mật khẩu, sau đó chọn phòng khám phù hợp từ giao diện chọn phòng."
+    },
+    {
+        "id": 4,
+        "question": "Giao diện chính của phân hệ khám bệnh bao gồm những chức năng nào?",
+        "answer": "Giao diện chính bao gồm các chức năng như Phòng Khám, Camera, Danh sách y lệnh, Hồ sơ điều trị, Lịch sử điều trị, Màn hình chờ, và Tiếp nhận chuyển khoa.",
+        "context": "Giao diện chính bao gồm các chức năng như Phòng Khám, Camera, Danh sách y lệnh, Hồ sơ điều trị, Lịch sử điều trị, Màn hình chờ, và Tiếp nhận chuyển khoa."
+    },
+    {
+        "id": 5,
+        "question": "Chức năng Phòng Khám trong phần mềm dùng để làm gì?",
+        "answer": "Chức năng Phòng Khám là giao diện chính để thực hiện các nhiệm vụ khám bệnh và xử lý y lệnh.",
+        "context": "Chức năng Phòng Khám là giao diện chính để thực hiện các nhiệm vụ khám bệnh và xử lý y lệnh."
+    },
+    {
+        "id": 6,
+        "question": "Chức năng Camera trong phần mềm khám bệnh có tác dụng gì?",
+        "answer": "Chức năng Camera giúp kết nối với các thiết bị y tế như máy siêu âm, máy nội soi để chụp ảnh phục vụ khám bệnh.",
+        "context": "Chức năng Camera giúp kết nối với các thiết bị y tế như máy siêu âm, máy nội soi để chụp ảnh phục vụ khám bệnh."
+    },
+    {
+        "id": 7,
+        "question": "Làm thế nào để xem lại danh sách y lệnh của bệnh nhân?",
+        "answer": "Người dùng có thể chọn chức năng Danh sách y lệnh để xem, sửa, xóa hoặc in lại các y lệnh đã thực hiện.",
+        "context": "Người dùng có thể chọn chức năng Danh sách y lệnh để xem, sửa, xóa hoặc in lại các y lệnh đã thực hiện."
+    },
+    {
+        "id": 8,
+        "question": "Chức năng Hồ sơ điều trị dùng để làm gì?",
+        "answer": "Chức năng Hồ sơ điều trị giúp tra cứu và quản lý hồ sơ điều trị của bệnh nhân tương đương bệnh án trên phần mềm.",
+        "context": "Chức năng Hồ sơ điều trị giúp tra cứu và quản lý hồ sơ điều trị của bệnh nhân tương đương bệnh án trên phần mềm."
+    },
+    {
+        "id": 9,
+        "question": "Chức năng Lịch sử điều trị trong phần mềm có tác dụng gì?",
+        "answer": "Chức năng này cho phép tra cứu lịch sử khám chữa bệnh của bệnh nhân, bao gồm chẩn đoán, dịch vụ và diễn biến bệnh.",
+        "context": "Chức năng này cho phép tra cứu lịch sử khám chữa bệnh của bệnh nhân, bao gồm chẩn đoán, dịch vụ và diễn biến bệnh."
+    },
+    {
+        "id": 10,
+        "question": "Màn hình chờ trong phòng khám là gì?",
+        "answer": "Màn hình chờ hiển thị danh sách bệnh nhân đang chờ khám tại phòng khám, giúp bác sĩ quản lý lượt khám.",
+        "context": "Màn hình chờ hiển thị danh sách bệnh nhân đang chờ khám tại phòng khám, giúp bác sĩ quản lý lượt khám."
+    },
+    {
+        "id": 11,
+        "question": "Làm thế nào để sửa yêu cầu khám của bệnh nhân?",
+        "answer": "Người dùng có thể sử dụng chức năng Sửa Yêu cầu Khám, nhập mã y lệnh, chọn phòng khám muốn chuyển và lưu lại.",
+        "context": "Người dùng có thể sử dụng chức năng Sửa Yêu cầu Khám, nhập mã y lệnh, chọn phòng khám muốn chuyển và lưu lại."
+    },
+    {
+        "id": 12,
+        "question": "Chức năng Tiếp nhận chuyển khoa được sử dụng trong trường hợp nào?",
+        "answer": "Chức năng này được sử dụng khi tiếp nhận bệnh nhân từ khoa khác vào để điều trị tiếp tại khoa phòng mới.",
+        "context": "Chức năng này được sử dụng khi tiếp nhận bệnh nhân từ khoa khác vào để điều trị tiếp tại khoa phòng mới."
+    },
+    {
+        "id": 13,
+        "question": "Xuất hao phí khoa phòng trong phần mềm hoạt động như thế nào?",
+        "answer": "Người dùng chọn kho xuất, nhập số lượng thuốc hoặc vật tư, sau đó lưu và in phiếu xuất hao phí.",
+        "context": "Người dùng chọn kho xuất, nhập số lượng thuốc hoặc vật tư, sau đó lưu và in phiếu xuất hao phí."
+    },
+    {
+        "id": 14,
+        "question": "Các bước xử lý khám bệnh trong phần mềm là gì?",
+        "answer": "Bước đầu tiên là chọn bệnh nhân cần khám, sau đó nhập thông tin hoặc chọn mẫu có sẵn và thực hiện các chỉ định dịch vụ.",
+        "context": "Bước đầu tiên là chọn bệnh nhân cần khám, sau đó nhập thông tin hoặc chọn mẫu có sẵn và thực hiện các chỉ định dịch vụ."
+    },
+    {
+        "id": 15,
+        "question": "Làm thế nào để chỉ định dịch vụ trong quá trình khám?",
+        "answer": "Người dùng nhấn vào nút Chỉ định (F9), chọn các dịch vụ cần chỉ định và nhấn Lưu in hoặc Lưu để hoàn tất.",
+        "context": "Người dùng nhấn vào nút Chỉ định (F9), chọn các dịch vụ cần chỉ định và nhấn Lưu in hoặc Lưu để hoàn tất."
+    },
+    {
+        "id": 16,
+        "question": "Làm thế nào để kê đơn thuốc trong phần mềm khám bệnh?",
+        "answer": "Người dùng nhấn vào nút Kê đơn (F8), chọn thuốc, nhập số lượng và hướng dẫn, sau đó nhấn Bổ sung và Lưu in.",
+        "context": "Người dùng nhấn vào nút Kê đơn (F8), chọn thuốc, nhập số lượng và hướng dẫn, sau đó nhấn Bổ sung và Lưu in."
+    },
+    {
+        "id": 17,
+        "question": "Có thể sử dụng lại các đơn thuốc cũ trong phần mềm không?",
+        "answer": "Người dùng có thể chọn sử dụng các đơn thuốc cũ hiển thị ở màn hình bên phải để kê đơn cho đợt điều trị mới.",
+        "context": "Người dùng có thể chọn sử dụng các đơn thuốc cũ hiển thị ở màn hình bên phải để kê đơn cho đợt điều trị mới."
+    },
+    {
+        "id": 18,
+        "question": "Làm sao để kết thúc điều trị ngay khi kê đơn?",
+        "answer": "Người dùng có thể tích vào nút Kết thúc điều trị khi kê đơn để hoàn thành quá trình xử trí và kết thúc điều trị.",
+        "context": "Người dùng có thể tích vào nút Kết thúc điều trị khi kê đơn để hoàn thành quá trình xử trí và kết thúc điều trị."
+    },
+    {
+        "id": 19,
+        "question": "Xử trí khám trong phần mềm được thực hiện như thế nào?",
+        "answer": "Sau khi nhập các thông tin khám, người dùng có thể kết thúc khám hoặc nhập viện, kết thúc điều trị và in phiếu khám.",
+        "context": "Sau khi nhập các thông tin khám, người dùng có thể kết thúc khám hoặc nhập viện, kết thúc điều trị và in phiếu khám."
+    },
+    {
+        "id": 20,
+        "question": "Phiếu khám bệnh viện có thể in từ đâu?",
+        "answer": "Sau khi lưu thông tin xử lý khám, người dùng có thể in các phiếu khám bệnh viện, giấy ra viện hoặc giấy hẹn khám.",
+        "context": "Sau khi lưu thông tin xử lý khám, người dùng có thể in các phiếu khám bệnh viện, giấy ra viện hoặc giấy hẹn khám."
+    },
+    {
+        "id": 21,
+        "question": "Người dùng có thể sửa chẩn đoán chính và phụ trong quá trình chỉ định dịch vụ không?",
+        "answer": "Có, người dùng có thể chỉnh sửa chẩn đoán chính và phụ trước khi lưu hoặc in phiếu chỉ định dịch vụ.",
+        "context": "Có, người dùng có thể chỉnh sửa chẩn đoán chính và phụ trước khi lưu hoặc in phiếu chỉ định dịch vụ."
+    },
+    {
+        "id": 22,
+        "question": "Chức năng Nhập viện trong xử trí khám có tác dụng gì?",
+        "answer": "Chức năng này cho phép người dùng nhập viện bệnh nhân sau khi khám và cần điều trị nội trú.",
+        "context": "Chức năng này cho phép người dùng nhập viện bệnh nhân sau khi khám và cần điều trị nội trú."
+    },
+    {
+        "id": 23,
+        "question": "Người dùng có thể tìm kiếm dịch vụ trong quá trình chỉ định như thế nào?",
+        "answer": "Người dùng có thể tìm kiếm dịch vụ theo từ khóa hoặc chọn nhóm dịch vụ để dễ dàng chỉ định.",
+        "context": "Người dùng có thể tìm kiếm dịch vụ theo từ khóa hoặc chọn nhóm dịch vụ để dễ dàng chỉ định."
+    },
+    {
+        "id": 24,
+        "question": "Làm thế nào để chọn phòng thực hiện dịch vụ trong chỉ định?",
+        "answer": "Người dùng có thể chọn đích danh phòng thực hiện dịch vụ nếu có nhiều phòng xử lý cùng một loại dịch vụ.",
+        "context": "Người dùng có thể chọn đích danh phòng thực hiện dịch vụ nếu có nhiều phòng xử lý cùng một loại dịch vụ."
+    },
+    {
+        "id": 25,
+        "question": "Làm sao để thêm thuốc vào đơn thuốc trong phần mềm?",
+        "answer": "Người dùng chọn thuốc, nhập số lượng và hướng dẫn, sau đó nhấn Bổ sung để thêm thuốc vào đơn.",
+        "context": "Người dùng chọn thuốc, nhập số lượng và hướng dẫn, sau đó nhấn Bổ sung để thêm thuốc vào đơn."
+    },
+    {
+        "id": 26,
+        "question": "Có thể nhập thông tin lời dặn từ thư viện nội dung khi kê đơn không?",
+        "answer": "Có, người dùng có thể lấy thông tin lời dặn từ thư viện nội dung và thêm vào đơn thuốc khi kê đơn.",
+        "context": "Có, người dùng có thể lấy thông tin lời dặn từ thư viện nội dung và thêm vào đơn thuốc khi kê đơn."
+    },
+    {
+        "id": 27,
+        "question": "Cần phải làm gì nếu không lưu thông tin khám?",
+        "answer": "Nếu không lưu thông tin sau khi xử lý khám, các dữ liệu sẽ bị mất và không thể in phiếu khám.",
+        "context": "Nếu không lưu thông tin sau khi xử lý khám, các dữ liệu sẽ bị mất và không thể in phiếu khám."
+    },
+    {
+        "id": 28,
+        "question": "Làm sao để in phiếu chỉ định dịch vụ ngay sau khi lưu?",
+        "answer": "Người dùng có thể chọn Lưu in (Ctrl I) để in ngay phiếu chỉ định dịch vụ sau khi lưu.",
+        "context": "Người dùng có thể chọn Lưu in (Ctrl I) để in ngay phiếu chỉ định dịch vụ sau khi lưu."
+    },
+    {
+        "id": 29,
+        "question": "Khi nào cần sử dụng chức năng sửa yêu cầu khám?",
+        "answer": "Chức năng này được sử dụng khi cần chuyển bệnh nhân sang khoa hoặc phòng khám khác để khám.",
+        "context": "Chức năng này được sử dụng khi cần chuyển bệnh nhân sang khoa hoặc phòng khám khác để khám."
+    },
+    {
+        "id": 30,
+        "question": "Làm thế nào để kết thúc điều trị sau khi xử trí khám?",
+        "answer": "Người dùng có thể chọn nút Kết thúc điều trị trong quá trình xử trí khám để nhập các thông tin và hoàn tất.",
+        "context": "Người dùng có thể chọn nút Kết thúc điều trị trong quá trình xử trí khám để nhập các thông tin và hoàn tất."
+    },
+    {
+        "id": 31,
+        "question": "Giao diện chính của phân hệ khám bệnh bao gồm những biểu tượng chức năng nào?",
+        "answer": "Giao diện chính bao gồm các biểu tượng như Phòng Khám, Camera, Danh sách y lệnh, Hồ sơ điều trị, Lịch sử điều trị, và Màn hình chờ.",
+        "context": "Giao diện chính bao gồm các biểu tượng như Phòng Khám, Camera, Danh sách y lệnh, Hồ sơ điều trị, Lịch sử điều trị, và Màn hình chờ."
+    },
+    {
+        "id": 32,
+        "question": "Chức năng Tiếp nhận chuyển khoa được sử dụng trong tình huống nào?",
+        "answer": "Chức năng này được sử dụng khi tiếp nhận bệnh nhân từ khoa khác để chuyển đến phòng khám hoặc điều trị.",
+        "context": "Chức năng này được sử dụng khi tiếp nhận bệnh nhân từ khoa khác để chuyển đến phòng khám hoặc điều trị."
+    },
+    {
+        "id": 33,
+        "question": "Làm thế nào để xuất hao phí khoa phòng trong phần mềm?",
+        "answer": "Người dùng chọn kho xuất, nhập số lượng thuốc hoặc vật tư và nhấn Lưu để lưu lại danh sách chọn, sau đó nhấn In để in phiếu.",
+        "context": "Người dùng chọn kho xuất, nhập số lượng thuốc hoặc vật tư và nhấn Lưu để lưu lại danh sách chọn, sau đó nhấn In để in phiếu."
+    },
+    {
+        "id": 34,
+        "question": "Có thể thực hiện các thao tác nào trong màn hình chỉ định dịch vụ?",
+        "answer": "Người dùng có thể chọn dịch vụ cần chỉ định, chỉnh sửa chẩn đoán và chọn phòng thực hiện dịch vụ, sau đó nhấn Lưu in hoặc Lưu.",
+        "context": "Người dùng có thể chọn dịch vụ cần chỉ định, chỉnh sửa chẩn đoán và chọn phòng thực hiện dịch vụ, sau đó nhấn Lưu in hoặc Lưu."
+    },
+    {
+        "id": 35,
+        "question": "Khi nào nên sử dụng chức năng Kê đơn thuốc trong phần mềm?",
+        "answer": "Kê đơn thuốc được sử dụng sau khi bác sĩ khám và cần chỉ định thuốc cho bệnh nhân.",
+        "context": "Kê đơn thuốc được sử dụng sau khi bác sĩ khám và cần chỉ định thuốc cho bệnh nhân."
+    },
+    {
+        "id": 36,
+        "question": "Chức năng Camera trong phần mềm có thể sử dụng cho những thiết bị nào?",
+        "answer": "Chức năng Camera dùng để kết nối với các thiết bị sinh ảnh như máy siêu âm và máy nội soi để chụp ảnh trong quá trình khám.",
+        "context": "Chức năng Camera dùng để kết nối với các thiết bị sinh ảnh như máy siêu âm và máy nội soi để chụp ảnh trong quá trình khám."
+    },
+    {
+        "id": 37,
+        "question": "Người dùng có thể làm gì sau khi kê đơn thuốc cho bệnh nhân?",
+        "answer": "Người dùng có thể lưu và in đơn thuốc, kết thúc điều trị hoặc sử dụng lại các đơn thuốc cũ trong quá trình kê đơn.",
+        "context": "Người dùng có thể lưu và in đơn thuốc, kết thúc điều trị hoặc sử dụng lại các đơn thuốc cũ trong quá trình kê đơn."
+    },
+    {
+        "id": 38,
+        "question": "Người dùng có thể kết thúc điều trị từ màn hình kê đơn thuốc không?",
+        "answer": "Có, người dùng có thể chọn nút Kết thúc điều trị ngay tại màn hình kê đơn thuốc để đóng bệnh án và hoàn thành điều trị.",
+        "context": "Có, người dùng có thể chọn nút Kết thúc điều trị ngay tại màn hình kê đơn thuốc để đóng bệnh án và hoàn thành điều trị."
+    },
+    {
+        "id": 39,
+        "question": "Làm thế nào để in phiếu khám hoặc giấy hẹn khám từ phần mềm?",
+        "answer": "Sau khi lưu thông tin xử lý khám, người dùng có thể chọn in phiếu khám, giấy ra viện hoặc giấy hẹn khám từ thanh công cụ.",
+        "context": "Sau khi lưu thông tin xử lý khám, người dùng có thể chọn in phiếu khám, giấy ra viện hoặc giấy hẹn khám từ thanh công cụ."
+    },
+    {
+        "id": 40,
+        "question": "Chức năng Danh sách y lệnh giúp ích gì cho bác sĩ?",
+        "answer": "Chức năng này giúp bác sĩ xem lại, sửa, xóa hoặc in các y lệnh đã thực hiện cho bệnh nhân trong khoa.",
+        "context": "Chức năng này giúp bác sĩ xem lại, sửa, xóa hoặc in các y lệnh đã thực hiện cho bệnh nhân trong khoa."
+    },
+    {
+        "id": 41,
+        "question": "Có thể thêm các dịch vụ nào khi chỉ định kỹ thuật?",
+        "answer": "Người dùng có thể thêm các dịch vụ kỹ thuật như xét nghiệm, chẩn đoán hình ảnh, siêu âm và các kỹ thuật lâm sàng khác.",
+        "context": "Người dùng có thể thêm các dịch vụ kỹ thuật như xét nghiệm, chẩn đoán hình ảnh, siêu âm và các kỹ thuật lâm sàng khác."
+    },
+    {
+        "id": 42,
+        "question": "Làm thế nào để chọn nhóm dịch vụ khi chỉ định?",
+        "answer": "Người dùng có thể chọn Nhóm dịch vụ từ màn hình chỉ định để chỉ định nhanh các dịch vụ kỹ thuật đã được cấu hình trước.",
+        "context": "Người dùng có thể chọn Nhóm dịch vụ từ màn hình chỉ định để chỉ định nhanh các dịch vụ kỹ thuật đã được cấu hình trước."
+    },
+    {
+        "id": 43,
+        "question": "Chức năng Hồ sơ điều trị có thể sử dụng để làm gì?",
+        "answer": "Chức năng này giúp bác sĩ quản lý, tra cứu và chỉnh sửa hồ sơ điều trị của bệnh nhân, tương đương với bệnh án truyền thống.",
+        "context": "Chức năng này giúp bác sĩ quản lý, tra cứu và chỉnh sửa hồ sơ điều trị của bệnh nhân, tương đương với bệnh án truyền thống."
+    },
+    {
+        "id": 44,
+        "question": "Chức năng màn hình chờ có tác dụng gì trong quá trình khám bệnh?",
+        "answer": "Chức năng màn hình chờ giúp hiển thị danh sách bệnh nhân đang chờ khám tại phòng khám, hỗ trợ bác sĩ quản lý lượt khám.",
+        "context": "Chức năng màn hình chờ giúp hiển thị danh sách bệnh nhân đang chờ khám tại phòng khám, hỗ trợ bác sĩ quản lý lượt khám."
+    },
+    {
+        "id": 45,
+        "question": "Có thể in lại phiếu chỉ định dịch vụ sau khi lưu không?",
+        "answer": "Có, người dùng có thể chọn in lại phiếu chỉ định dịch vụ bất kỳ lúc nào sau khi đã lưu thông tin chỉ định.",
+        "context": "Có, người dùng có thể chọn in lại phiếu chỉ định dịch vụ bất kỳ lúc nào sau khi đã lưu thông tin chỉ định."
+    },
+    {
+        "id": 46,
+        "question": "Chức năng sửa yêu cầu khám được thực hiện như thế nào?",
+        "answer": "Người dùng nhập mã y lệnh của bệnh nhân, chọn các phòng khám muốn chuyển và nhấn Lưu để hoàn tất việc sửa yêu cầu khám.",
+        "context": "Người dùng nhập mã y lệnh của bệnh nhân, chọn các phòng khám muốn chuyển và nhấn Lưu để hoàn tất việc sửa yêu cầu khám."
+    },
+    {
+        "id": 47,
+        "question": "Khi nào cần sử dụng chức năng Nhập viện trong quá trình xử lý khám?",
+        "answer": "Chức năng Nhập viện được sử dụng khi bệnh nhân cần được chuyển từ phòng khám sang điều trị nội trú.",
+        "context": "Chức năng Nhập viện được sử dụng khi bệnh nhân cần được chuyển từ phòng khám sang điều trị nội trú."
+    },
+    {
+        "id": 48,
+        "question": "Có thể thêm thông tin hướng dẫn thuốc từ đâu khi kê đơn?",
+        "answer": "Người dùng có thể thêm thông tin hướng dẫn thuốc từ thư viện nội dung tại mục lời dặn khi kê đơn cho bệnh nhân.",
+        "context": "Người dùng có thể thêm thông tin hướng dẫn thuốc từ thư viện nội dung tại mục lời dặn khi kê đơn cho bệnh nhân."
+    },
+    {
+        "id": 49,
+        "question": "Làm thế nào để chọn phòng khám khi tiếp nhận bệnh nhân chuyển khoa?",
+        "answer": "Người dùng tìm tên bệnh nhân, chọn phòng khám và nhập thông tin chẩn đoán, buồng giường để tiếp nhận bệnh nhân chuyển khoa.",
+        "context": "Người dùng tìm tên bệnh nhân, chọn phòng khám và nhập thông tin chẩn đoán, buồng giường để tiếp nhận bệnh nhân chuyển khoa."
+    },
+    {
+        "id": 50,
+        "question": "Chức năng xuất hao phí khoa phòng được sử dụng khi nào?",
+        "answer": "Chức năng này được sử dụng khi khoa phòng cần xuất thuốc hoặc vật tư cho các hoạt động điều trị hoặc kiểm kê hao phí.",
+        "context": "Chức năng này được sử dụng khi khoa phòng cần xuất thuốc hoặc vật tư cho các hoạt động điều trị hoặc kiểm kê hao phí."
+    },
+    {
+        "id": 51,
+        "question": "Chức năng Kết thúc điều trị trong phần mềm có tác dụng gì?",
+        "answer": "Chức năng Kết thúc điều trị giúp hoàn tất quá trình điều trị, nhập các thông tin cần thiết và lưu kết quả điều trị của bệnh nhân.",
+        "context": "Chức năng Kết thúc điều trị giúp hoàn tất quá trình điều trị, nhập các thông tin cần thiết và lưu kết quả điều trị của bệnh nhân."
+    },
+    {
+        "id": 52,
+        "question": "Có thể kết thúc điều trị trực tiếp từ màn hình chỉ định dịch vụ không?",
+        "answer": "Không, chức năng kết thúc điều trị được thực hiện trong màn hình kê đơn hoặc xử trí khám, không thể thực hiện trực tiếp từ màn hình chỉ định dịch vụ.",
+        "context": "Không, chức năng kết thúc điều trị được thực hiện trong màn hình kê đơn hoặc xử trí khám, không thể thực hiện trực tiếp từ màn hình chỉ định dịch vụ."
+    },
+    {
+        "id": 53,
+        "question": "Người dùng có thể xem lại lịch sử điều trị của bệnh nhân như thế nào?",
+        "answer": "Chọn chức năng Lịch sử điều trị để xem toàn bộ diễn biến, chẩn đoán và dịch vụ đã thực hiện trong các lần khám trước của bệnh nhân.",
+        "context": "Chọn chức năng Lịch sử điều trị để xem toàn bộ diễn biến, chẩn đoán và dịch vụ đã thực hiện trong các lần khám trước của bệnh nhân."
+    },
+    {
+        "id": 54,
+        "question": "Làm thế nào để thêm thông tin thuốc vào đơn thuốc hiện có?",
+        "answer": "Người dùng có thể thêm thuốc vào đơn thuốc hiện có bằng cách chọn thuốc, nhập số lượng và hướng dẫn, sau đó nhấn Bổ sung để hoàn thành.",
+        "context": "Người dùng có thể thêm thuốc vào đơn thuốc hiện có bằng cách chọn thuốc, nhập số lượng và hướng dẫn, sau đó nhấn Bổ sung để hoàn thành."
+    },
+    {
+        "id": 55,
+        "question": "Làm sao để sử dụng các đơn thuốc cũ trong phần mềm?",
+        "answer": "Người dùng có thể chọn các đơn thuốc cũ từ danh sách hiển thị ở màn hình bên phải để sử dụng lại cho đợt kê đơn mới.",
+        "context": "Người dùng có thể chọn các đơn thuốc cũ từ danh sách hiển thị ở màn hình bên phải để sử dụng lại cho đợt kê đơn mới."
+    },
+    {
+        "id": 56,
+        "question": "Chức năng Chỉ định dịch vụ có hỗ trợ tìm kiếm dịch vụ không?",
+        "answer": "Có, người dùng có thể tìm kiếm dịch vụ theo từ khóa hoặc nhóm dịch vụ trong màn hình chỉ định.",
+        "context": "Có, người dùng có thể tìm kiếm dịch vụ theo từ khóa hoặc nhóm dịch vụ trong màn hình chỉ định."
+    },
+    {
+        "id": 57,
+        "question": "Khi nào cần sử dụng chức năng Kết thúc khám trong quá trình xử trí khám?",
+        "answer": "Chức năng Kết thúc khám được sử dụng khi bệnh nhân không cần điều trị thêm và quá trình khám đã hoàn tất.",
+        "context": "Chức năng Kết thúc khám được sử dụng khi bệnh nhân không cần điều trị thêm và quá trình khám đã hoàn tất."
+    },
+    {
+        "id": 58,
+        "question": "Có thể chọn đích danh phòng thực hiện dịch vụ từ màn hình chỉ định không?",
+        "answer": "Có, người dùng có thể chọn đích danh phòng thực hiện dịch vụ trong trường hợp một dịch vụ có nhiều phòng khám hoặc xử lý.",
+        "context": "Có, người dùng có thể chọn đích danh phòng thực hiện dịch vụ trong trường hợp một dịch vụ có nhiều phòng khám hoặc xử lý."
+    },
+    {
+        "id": 59,
+        "question": "Khi nào cần sử dụng chức năng tiếp nhận chuyển khoa?",
+        "answer": "Chức năng này được sử dụng khi bệnh nhân cần chuyển khoa để điều trị tiếp hoặc thực hiện các dịch vụ khác tại khoa mới.",
+        "context": "Chức năng này được sử dụng khi bệnh nhân cần chuyển khoa để điều trị tiếp hoặc thực hiện các dịch vụ khác tại khoa mới."
+    },
+    {
+        "id": 60,
+        "question": "Có thể chỉnh sửa chẩn đoán phụ trong quá trình chỉ định dịch vụ không?",
+        "answer": "Có, người dùng có thể chỉnh sửa chẩn đoán chính và phụ trong màn hình chỉ định dịch vụ trước khi lưu thông tin.",
+        "context": "Có, người dùng có thể chỉnh sửa chẩn đoán chính và phụ trong màn hình chỉ định dịch vụ trước khi lưu thông tin."
+    },
+    {
+        "id": 31,
+        "question": "Khi nhập sai thông tin bệnh nhân, người dùng có thể sửa ở đâu?",
+        "answer": "Người dùng có thể vào 'Danh sách bệnh nhân' hoặc 'Hồ sơ điều trị' để sửa thông tin.",
+        "context": "Người dùng có thể vào 'Danh sách bệnh nhân' hoặc 'Hồ sơ điều trị' để sửa thông tin."
+    },
+    {
+        "id": 32,
+        "question": "Chức năng 'Cấp STT tiếp đón bệnh nhân' trong phần mềm có tác dụng gì?",
+        "answer": "Chức năng này giúp cấp số thứ tự cho bệnh nhân khi tiếp đón để đảm bảo trật tự xếp hàng.",
+        "context": "Chức năng này giúp cấp số thứ tự cho bệnh nhân khi tiếp đón để đảm bảo trật tự xếp hàng."
+    },
+    {
+        "id": 33,
+        "question": "Chức năng 'Hồ sơ điều trị' trong phần mềm dùng để làm gì?",
+        "answer": "Chức năng này giúp lưu trữ và tra cứu thông tin về các đợt điều trị của bệnh nhân.",
+        "context": "Chức năng này giúp lưu trữ và tra cứu thông tin về các đợt điều trị của bệnh nhân."
+    },
+    {
+        "id": 34,
+        "question": "Làm thế nào để đăng ký dịch vụ cho bệnh nhân BHYT thông qua máy đọc mã vạch?",
+        "answer": "Người dùng đưa thẻ BHYT vào máy đọc mã vạch, toàn bộ thông tin bệnh nhân sẽ được tự động tải lên.",
+        "context": "Người dùng đưa thẻ BHYT vào máy đọc mã vạch, toàn bộ thông tin bệnh nhân sẽ được tự động tải lên."
+    },
+    {
+        "id": 35,
+        "question": "Chức năng 'Đổi phòng khám' trong phần mềm quản lý bệnh viện HIS là gì?",
+        "answer": "Chức năng này cho phép đổi phòng khám cho bệnh nhân sau khi đã đăng ký ban đầu.",
+        "context": "Chức năng này cho phép đổi phòng khám cho bệnh nhân sau khi đã đăng ký ban đầu."
+    },
+    {
+        "id": 36,
+        "question": "Người dùng có thể làm gì khi muốn chỉ định lại dịch vụ khám?",
+        "answer": "Người dùng có thể vào danh sách y lệnh và sửa hoặc xóa yêu cầu dịch vụ khám trước đó.",
+        "context": "Người dùng có thể vào danh sách y lệnh và sửa hoặc xóa yêu cầu dịch vụ khám trước đó."
+    },
+    {
+        "id": 37,
+        "question": "Trong trường hợp không thể đăng nhập vào phần mềm do mật khẩu sai, cần làm gì?",
+        "answer": "Người dùng cần thoát khỏi phần mềm, kiểm tra lại chế độ gõ tiếng Việt và thử đăng nhập lại.",
+        "context": "Người dùng cần thoát khỏi phần mềm, kiểm tra lại chế độ gõ tiếng Việt và thử đăng nhập lại."
+    },
+    {
+        "id": 38,
+        "question": "Nếu gặp lỗi tài khoản không có quyền truy cập, làm thế nào để khắc phục?",
+        "answer": "Người dùng cần liên hệ với quản trị viên để thiết lập quyền truy cập cho tài khoản.",
+        "context": "Người dùng cần liên hệ với quản trị viên để thiết lập quyền truy cập cho tài khoản."
+    },
+    {
+        "id": 39,
+        "question": "Phần mềm HIS có cho phép tra cứu danh sách bệnh án điện tử không?",
+        "answer": "Có, phần mềm HIS cho phép người dùng tra cứu danh sách bệnh án điện tử của bệnh nhân.",
+        "context": "Có, phần mềm HIS cho phép người dùng tra cứu danh sách bệnh án điện tử của bệnh nhân."
+    },
+    {
+        "id": 40,
+        "question": "Làm thế nào để đăng ký dịch vụ cho bệnh nhân nếu không dùng mã vạch?",
+        "answer": "Người dùng có thể nhập thủ công số thẻ BHYT hoặc sử dụng mã bệnh nhân, CMND/CCCD để đăng ký.",
+        "context": "Người dùng có thể nhập thủ công số thẻ BHYT hoặc sử dụng mã bệnh nhân, CMND/CCCD để đăng ký."
+    },
+    {
+        "id": 41,
+        "question": "Chức năng 'Danh sách bệnh nhân' lưu trữ thông tin gì?",
+        "answer": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, và số điện thoại.",
+        "context": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, và số điện thoại."
+    },
+    {
+        "id": 42,
+        "question": "Chức năng 'Danh sách y lệnh' cho phép người dùng làm gì?",
+        "answer": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ đã tạo trước đó cho bệnh nhân.",
+        "context": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ đã tạo trước đó cho bệnh nhân."
+    },
+    {
+        "id": 43,
+        "question": "Làm thế nào để xuất biên lai thu tiền cho bệnh nhân tại quầy tiếp đón?",
+        "answer": "Người dùng cần sử dụng chức năng 'Xuất biên lai/hóa đơn' để thu tiền và xuất biên lai trực tiếp.",
+        "context": "Người dùng cần sử dụng chức năng 'Xuất biên lai/hóa đơn' để thu tiền và xuất biên lai trực tiếp."
+    },
+    {
+        "id": 44,
+        "question": "Phần mềm HIS hỗ trợ chuyển đổi đối tượng bệnh nhân từ viện phí sang BHYT bằng cách nào?",
+        "answer": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và thay đổi thông tin đối tượng bệnh nhân.",
+        "context": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và thay đổi thông tin đối tượng bệnh nhân."
+    },
+    {
+        "id": 45,
+        "question": "Nếu không tìm thấy bệnh nhân trong danh sách, người dùng cần làm gì?",
+        "answer": "Người dùng cần kiểm tra điều kiện tìm kiếm và đảm bảo phần mềm đã được cập nhật phiên bản mới nhất.",
+        "context": "Người dùng cần kiểm tra điều kiện tìm kiếm và đảm bảo phần mềm đã được cập nhật phiên bản mới nhất."
+    },
+    {
+        "id": 46,
+        "question": "Phần mềm HIS có hỗ trợ chỉ định dịch vụ cho bệnh nhân không cần mã ICD không?",
+        "answer": "Có, người dùng có thể chỉ định dịch vụ trực tiếp mà không cần nhập mã ICD.",
+        "context": "Có, người dùng có thể chỉ định dịch vụ trực tiếp mà không cần nhập mã ICD."
+    },
+    {
+        "id": 47,
+        "question": "Người dùng có thể làm gì khi gặp lỗi kết nối phần mềm tới máy chủ?",
+        "answer": "Người dùng cần kiểm tra địa chỉ IP máy chủ, cấu hình phần mềm, và đảm bảo không có phần mềm diệt virus chặn kết nối.",
+        "context": "Người dùng cần kiểm tra địa chỉ IP máy chủ, cấu hình phần mềm, và đảm bảo không có phần mềm diệt virus chặn kết nối."
+    },
+    {
+        "id": 48,
+        "question": "Chức năng 'Sửa yêu cầu khám' trong phần mềm HIS có tác dụng gì?",
+        "answer": "Chức năng này cho phép thay đổi yêu cầu khám của bệnh nhân sau khi đã đăng ký, ví dụ từ khám nội sang khám ngoại.",
+        "context": "Chức năng này cho phép thay đổi yêu cầu khám của bệnh nhân sau khi đã đăng ký, ví dụ từ khám nội sang khám ngoại."
+    },
+    {
+        "id": 49,
+        "question": "Phần mềm HIS có chức năng tra cứu lịch sử điều trị của bệnh nhân không?",
+        "answer": "Có, người dùng có thể tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống.",
+        "context": "Có, người dùng có thể tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống."
+    },
+    {
+        "id": 50,
+        "question": "Nếu gặp lỗi không thể tìm thấy bệnh nhân, người dùng cần kiểm tra điều gì?",
+        "answer": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo dữ liệu được cập nhật đúng.",
+        "context": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo dữ liệu được cập nhật đúng."
+    },
+    {
+        "id": 51,
+        "question": "Làm thế nào để đăng ký bệnh nhân quay lại viện lần thứ hai?",
+        "answer": "Người dùng có thể sử dụng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân quay lại.",
+        "context": "Người dùng có thể sử dụng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân quay lại."
+    },
+    {
+        "id": 52,
+        "question": "Chức năng 'Xuất biên lai/hóa đơn' được sử dụng trong tình huống nào?",
+        "answer": "Chức năng này được sử dụng để thu tiền trực tiếp từ bệnh nhân và xuất biên lai hoặc hóa đơn tại quầy tiếp đón.",
+        "context": "Chức năng này được sử dụng để thu tiền trực tiếp từ bệnh nhân và xuất biên lai hoặc hóa đơn tại quầy tiếp đón."
+    },
+    {
+        "id": 53,
+        "question": "Chức năng 'Yêu cầu sử dụng sổ biên lai/hóa đơn' có tác dụng gì?",
+        "answer": "Chức năng này cho phép người dùng gửi yêu cầu sử dụng sổ biên lai hoặc hóa đơn đến nhân viên thu ngân để duyệt.",
+        "context": "Chức năng này cho phép người dùng gửi yêu cầu sử dụng sổ biên lai hoặc hóa đơn đến nhân viên thu ngân để duyệt."
+    },
+    {
+        "id": 54,
+        "question": "Người dùng cần làm gì khi phần mềm báo sai mật khẩu đăng nhập?",
+        "answer": "Người dùng cần kiểm tra lại chế độ gõ tiếng Việt và đăng nhập lại. Nếu vẫn gặp lỗi, cần liên hệ quản trị để khôi phục mật khẩu.",
+        "context": "Người dùng cần kiểm tra lại chế độ gõ tiếng Việt và đăng nhập lại. Nếu vẫn gặp lỗi, cần liên hệ quản trị để khôi phục mật khẩu."
+    },
+    {
+        "id": 55,
+        "question": "Làm thế nào để in hóa đơn ngay sau khi đăng ký bệnh nhân?",
+        "answer": "Sau khi hoàn tất đăng ký bệnh nhân, người dùng có thể chọn in hóa đơn trực tiếp từ giao diện phần mềm.",
+        "context": "Sau khi hoàn tất đăng ký bệnh nhân, người dùng có thể chọn in hóa đơn trực tiếp từ giao diện phần mềm."
+    },
+    {
+        "id": 56,
+        "question": "Phần mềm HIS có hỗ trợ cập nhật thông tin thẻ BHYT của bệnh nhân không?",
+        "answer": "Có, chức năng 'Cập nhật thẻ' cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân khi cần.",
+        "context": "Có, chức năng 'Cập nhật thẻ' cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân khi cần."
+    },
+    {
+        "id": 57,
+        "question": "Chức năng 'Hồ sơ điều trị' trong phần mềm lưu trữ thông tin gì?",
+        "answer": "Chức năng này lưu trữ toàn bộ thông tin điều trị của bệnh nhân, bao gồm y bạ điện tử và bảng kê chi phí.",
+        "context": "Chức năng này lưu trữ toàn bộ thông tin điều trị của bệnh nhân, bao gồm y bạ điện tử và bảng kê chi phí."
+    },
+    {
+        "id": 58,
+        "question": "Người dùng có thể sửa thông tin bệnh nhân ở đâu nếu nhập sai?",
+        "answer": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin đã nhập sai.",
+        "context": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin đã nhập sai."
+    },
+    {
+        "id": 59,
+        "question": "Phần mềm HIS có cho phép quản lý lịch sử điều trị của nhiều bệnh nhân cùng lúc không?",
+        "answer": "Có, phần mềm cho phép tra cứu lịch sử điều trị của nhiều bệnh nhân trong hệ thống.",
+        "context": "Có, phần mềm cho phép tra cứu lịch sử điều trị của nhiều bệnh nhân trong hệ thống."
+    },
+    {
+        "id": 60,
+        "question": "Làm thế nào để tra cứu lịch sử tương tác của một tài khoản trên hệ thống?",
+        "answer": "Người dùng có thể sử dụng chức năng tra cứu lịch sử tương tác của tài khoản trong phần mềm.",
+        "context": "Người dùng có thể sử dụng chức năng tra cứu lịch sử tương tác của tài khoản trong phần mềm."
+    },
+    {
+        "id": 1,
+        "question": "Phân hệ tiếp đón trong hệ thống quản lý bệnh viện HIS có nhiệm vụ gì?",
+        "answer": "Phân hệ tiếp đón giúp nhân viên đăng ký thông tin bệnh nhân, phân công dịch vụ và quản lý hàng đợi bệnh nhân tại các khoa phòng.",
+        "context": "Phân hệ tiếp đón giúp nhân viên đăng ký thông tin bệnh nhân, phân công dịch vụ và quản lý hàng đợi bệnh nhân tại các khoa phòng."
+    },
+    {
+        "id": 2,
+        "question": "Làm thế nào để người dùng đăng nhập vào phần mềm tiếp đón?",
+        "answer": "Người dùng đăng nhập vào phần mềm bằng tài khoản và mật khẩu được cấp.",
+        "context": "Người dùng đăng nhập vào phần mềm bằng tài khoản và mật khẩu được cấp."
+    },
+    {
+        "id": 3,
+        "question": "Chức năng 'Danh sách bệnh nhân' trong phân hệ tiếp đón có ý nghĩa gì?",
+        "answer": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, số điện thoại, và nghề nghiệp.",
+        "context": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, số điện thoại, và nghề nghiệp."
+    },
+    {
+        "id": 4,
+        "question": "Phần mềm HIS có hỗ trợ đăng ký bệnh nhân BHYT bằng cách nào?",
+        "answer": "Có thể sử dụng máy đọc mã vạch, nhập thủ công số thẻ BHYT, hoặc sử dụng mã bệnh nhân, CMND/CCCD.",
+        "context": "Có thể sử dụng máy đọc mã vạch, nhập thủ công số thẻ BHYT, hoặc sử dụng mã bệnh nhân, CMND/CCCD."
+    },
+    {
+        "id": 5,
+        "question": "Làm thế nào để xử lý khi nhập sai thông tin họ tên hoặc ngày sinh của bệnh nhân?",
+        "answer": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để chỉnh sửa thông tin.",
+        "context": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để chỉnh sửa thông tin."
+    },
+    {
+        "id": 6,
+        "question": "Chức năng đổi phòng khám của phần mềm có mục đích gì?",
+        "answer": "Chức năng này cho phép thay đổi phòng khám đã đăng ký trước đó của bệnh nhân.",
+        "context": "Chức năng này cho phép thay đổi phòng khám đã đăng ký trước đó của bệnh nhân."
+    },
+    {
+        "id": 7,
+        "question": "Khi bệnh nhân quay lại khám lần 2, làm thế nào để đăng ký nhanh?",
+        "answer": "Có thể dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân.",
+        "context": "Có thể dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân."
+    },
+    {
+        "id": 8,
+        "question": "Làm sao để biết thẻ BHYT của bệnh nhân hợp lệ?",
+        "answer": "Sau khi nhập thông tin bệnh nhân, hệ thống sẽ hiển thị thẻ BHYT có hợp lệ hay không. Nếu hợp lệ, sẽ hiện thông tin thẻ, nếu không, sẽ yêu cầu cập nhật.",
+        "context": "Sau khi nhập thông tin bệnh nhân, hệ thống sẽ hiển thị thẻ BHYT có hợp lệ hay không. Nếu hợp lệ, sẽ hiện thông tin thẻ, nếu không, sẽ yêu cầu cập nhật."
+    },
+    {
+        "id": 9,
+        "question": "Người dùng cần làm gì nếu gặp lỗi không thể kết nối tới máy chủ?",
+        "answer": "Kiểm tra địa chỉ máy chủ trong cấu hình, kiểm tra kết nối mạng và xem có phần mềm diệt virus chặn kết nối không.",
+        "context": "Kiểm tra địa chỉ máy chủ trong cấu hình, kiểm tra kết nối mạng và xem có phần mềm diệt virus chặn kết nối không."
+    },
+    {
+        "id": 10,
+        "question": "Nếu bệnh nhân yêu cầu thay đổi dịch vụ khám, làm thế nào để sửa?",
+        "answer": "Người dùng vào danh sách y lệnh, chọn xóa hoặc sửa yêu cầu dịch vụ khám.",
+        "context": "Người dùng vào danh sách y lệnh, chọn xóa hoặc sửa yêu cầu dịch vụ khám."
+    },
+    {
+        "id": 11,
+        "question": "Chức năng tra cứu hồ sơ điều trị giúp ích gì?",
+        "answer": "Chức năng này giúp tìm kiếm thông tin điều trị, bảng kê chi phí, và lịch sử điều trị của bệnh nhân.",
+        "context": "Chức năng này giúp tìm kiếm thông tin điều trị, bảng kê chi phí, và lịch sử điều trị của bệnh nhân."
+    },
+    {
+        "id": 12,
+        "question": "Người dùng cần làm gì khi nhập sai số điện thoại của bệnh nhân?",
+        "answer": "Có thể vào danh sách bệnh nhân và chọn sửa thông tin bệnh nhân.",
+        "context": "Có thể vào danh sách bệnh nhân và chọn sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 13,
+        "question": "Chức năng xuất biên lai/hóa đơn được sử dụng trong tình huống nào?",
+        "answer": "Chức năng này dùng để thu tiền trực tiếp từ tiếp đón và xuất biên lai hoặc hóa đơn cho bệnh nhân.",
+        "context": "Chức năng này dùng để thu tiền trực tiếp từ tiếp đón và xuất biên lai hoặc hóa đơn cho bệnh nhân."
+    },
+    {
+        "id": 14,
+        "question": "Làm thế nào để thêm yêu cầu sử dụng sổ biên lai/hóa đơn?",
+        "answer": "Người dùng vào chức năng yêu cầu sử dụng sổ biên lai và gửi yêu cầu đến nhân viên thu ngân để duyệt.",
+        "context": "Người dùng vào chức năng yêu cầu sử dụng sổ biên lai và gửi yêu cầu đến nhân viên thu ngân để duyệt."
+    },
+    {
+        "id": 15,
+        "question": "Nếu nhập sai mật khẩu khi đăng nhập, cần làm gì?",
+        "answer": "Người dùng cần thoát phần mềm gõ tiếng Việt và thử đăng nhập lại, nếu vẫn không được cần liên hệ quản trị để khôi phục mật khẩu.",
+        "context": "Người dùng cần thoát phần mềm gõ tiếng Việt và thử đăng nhập lại, nếu vẫn không được cần liên hệ quản trị để khôi phục mật khẩu."
+    },
+    {
+        "id": 16,
+        "question": "Tính năng tra cứu lịch sử điều trị của phần mềm dùng để làm gì?",
+        "answer": "Tính năng này giúp tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống.",
+        "context": "Tính năng này giúp tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống."
+    },
+    {
+        "id": 17,
+        "question": "Khi hệ thống báo lỗi tài khoản không được thiết lập quyền truy cập, người dùng phải làm gì?",
+        "answer": "Người dùng cần liên hệ quản trị để được gán vai trò và thiết lập quyền truy cập vào phân hệ thu ngân.",
+        "context": "Người dùng cần liên hệ quản trị để được gán vai trò và thiết lập quyền truy cập vào phân hệ thu ngân."
+    },
+    {
+        "id": 18,
+        "question": "Làm thế nào để tìm kiếm bệnh nhân đã từng đến khám?",
+        "answer": "Người dùng có thể tìm kiếm theo mã bệnh nhân, mã điều trị, hoặc điều chỉnh ngày tìm kiếm trong tháng hiện tại.",
+        "context": "Người dùng có thể tìm kiếm theo mã bệnh nhân, mã điều trị, hoặc điều chỉnh ngày tìm kiếm trong tháng hiện tại."
+    },
+    {
+        "id": 19,
+        "question": "Chức năng 'Cập nhật thẻ' của phần mềm có mục đích gì?",
+        "answer": "Chức năng này cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân.",
+        "context": "Chức năng này cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân."
+    },
+    {
+        "id": 20,
+        "question": "Làm thế nào để đổi đối tượng bệnh nhân từ viện phí sang BHYT?",
+        "answer": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và chỉnh sửa đối tượng của bệnh nhân.",
+        "context": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và chỉnh sửa đối tượng của bệnh nhân."
+    },
+    {
+        "id": 21,
+        "question": "Phần mềm quản lý bệnh viện HIS có tính năng gì để hỗ trợ tiếp nhận bệnh nhân nhanh chóng?",
+        "answer": "Phần mềm HIS hỗ trợ dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để tiếp nhận bệnh nhân nhanh chóng.",
+        "context": "Phần mềm HIS hỗ trợ dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để tiếp nhận bệnh nhân nhanh chóng."
+    },
+    {
+        "id": 22,
+        "question": "Chức năng danh sách y lệnh cho phép thực hiện những gì?",
+        "answer": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra.",
+        "context": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra."
+    },
+    {
+        "id": 23,
+        "question": "Nếu muốn thay đổi phòng khám đã đăng ký, người dùng có thể làm gì?",
+        "answer": "Người dùng có thể vào chức năng đổi phòng khám để thay đổi phòng khám đã đăng ký cho bệnh nhân.",
+        "context": "Người dùng có thể vào chức năng đổi phòng khám để thay đổi phòng khám đã đăng ký cho bệnh nhân."
+    },
+    {
+        "id": 24,
+        "question": "Phần mềm HIS có hỗ trợ chỉ định dịch vụ cho bệnh nhân trực tiếp tại tiếp đón không?",
+        "answer": "Có, người dùng có thể chỉ định dịch vụ trực tiếp không cần nhập mã ICD chính và phụ.",
+        "context": "Có, người dùng có thể chỉ định dịch vụ trực tiếp không cần nhập mã ICD chính và phụ."
+    },
+    {
+        "id": 25,
+        "question": "Nếu nhập sai thông tin mã thẻ BHYT, phần mềm sẽ phản hồi như thế nào?",
+        "answer": "Phần mềm sẽ hiển thị thông báo yêu cầu cập nhật lại thông tin trên cổng thông tin nếu thông tin mã thẻ BHYT sai.",
+        "context": "Phần mềm sẽ hiển thị thông báo yêu cầu cập nhật lại thông tin trên cổng thông tin nếu thông tin mã thẻ BHYT sai."
+    },
+    {
+        "id": 26,
+        "question": "Người dùng cần làm gì khi gặp lỗi không tìm thấy bệnh nhân?",
+        "answer": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo cập nhật phiên bản mới nhất.",
+        "context": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo cập nhật phiên bản mới nhất."
+    },
+    {
+        "id": 27,
+        "question": "Làm thế nào để chỉ định dịch vụ khám cho bệnh nhân mà không qua phòng khám?",
+        "answer": "Người dùng có thể sử dụng chức năng chỉ định trực tiếp trong phần tiếp đón.",
+        "context": "Người dùng có thể sử dụng chức năng chỉ định trực tiếp trong phần tiếp đón."
+    },
+    {
+        "id": 28,
+        "question": "Khi nào cần sử dụng chức năng sửa yêu cầu khám?",
+        "answer": "Chức năng sửa yêu cầu khám được sử dụng khi cần thay đổi loại khám, ví dụ từ khám nội sang khám ngoại.",
+        "context": "Chức năng sửa yêu cầu khám được sử dụng khi cần thay đổi loại khám, ví dụ từ khám nội sang khám ngoại."
+    },
+    {
+        "id": 29,
+        "question": "Phần mềm HIS có hỗ trợ in hóa đơn ngay sau khi đăng ký bệnh nhân không?",
+        "answer": "Có, phần mềm hỗ trợ in hóa đơn ngay sau khi đăng ký hoàn tất cho bệnh nhân.",
+        "context": "Có, phần mềm hỗ trợ in hóa đơn ngay sau khi đăng ký hoàn tất cho bệnh nhân."
+    },
+    {
+        "id": 30,
+        "question": "Người dùng có thể sửa thông tin bệnh nhân bằng cách nào?",
+        "answer": "Người dùng vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 1,
+        "question": "Phân hệ kho của phần mềm quản lý bệnh viện HIS dùng để làm gì?",
+        "answer": "Phân hệ kho giúp quản lý kho thuốc và vật tư y tế, bao gồm các hoạt động nhập, xuất, và quản lý tồn kho.",
+        "context": "Phân hệ kho giúp quản lý kho thuốc và vật tư y tế, bao gồm các hoạt động nhập, xuất, và quản lý tồn kho."
+    },
+    {
+        "id": 2,
+        "question": "Ai là đối tượng sử dụng phân hệ quản lý kho?",
+        "answer": "Phân hệ này chủ yếu được sử dụng bởi thủ kho và các đối tượng có nhu cầu tạo yêu cầu nhập xuất kho.",
+        "context": "Phân hệ này chủ yếu được sử dụng bởi thủ kho và các đối tượng có nhu cầu tạo yêu cầu nhập xuất kho."
+    },
+    {
+        "id": 3,
+        "question": "Các loại nhập kho trong phần mềm bao gồm những gì?",
+        "answer": "Có nhiều loại nhập kho như nhập từ nhà cung cấp, nhập kiểm kê, nhập đầu kỳ, nhập chuyển kho và nhập khác.",
+        "context": "Có nhiều loại nhập kho như nhập từ nhà cung cấp, nhập kiểm kê, nhập đầu kỳ, nhập chuyển kho và nhập khác."
+    },
+    {
+        "id": 4,
+        "question": "Chức năng 'Tạo thầu' trong phần mềm kho được dùng để làm gì?",
+        "answer": "Chức năng 'Tạo thầu' dùng để quản lý nhập xuất thuốc và vật tư theo từng thầu được tạo.",
+        "context": "Chức năng 'Tạo thầu' dùng để quản lý nhập xuất thuốc và vật tư theo từng thầu được tạo."
+    },
+    {
+        "id": 5,
+        "question": "Làm thế nào để nhập thuốc từ nhà cung cấp trong phần mềm?",
+        "answer": "Người dùng cần chọn loại nhập theo thầu, nhà cung cấp và điền thông tin số chứng từ để hoàn tất việc nhập kho.",
+        "context": "Người dùng cần chọn loại nhập theo thầu, nhà cung cấp và điền thông tin số chứng từ để hoàn tất việc nhập kho."
+    },
+    {
+        "id": 6,
+        "question": "Có thể sửa hoặc xóa thầu đã tạo không?",
+        "answer": "Người dùng có thể sửa thầu, nhưng nếu thầu đã có hóa đơn nhập thì không thể xóa.",
+        "context": "Người dùng có thể sửa thầu, nhưng nếu thầu đã có hóa đơn nhập thì không thể xóa."
+    },
+    {
+        "id": 7,
+        "question": "Khi nào cần sử dụng chức năng 'Nhập trả thuốc của khoa phòng'?",
+        "answer": "Chức năng này được sử dụng khi khoa phòng trả lại thuốc về kho quản lý.",
+        "context": "Chức năng này được sử dụng khi khoa phòng trả lại thuốc về kho quản lý."
+    },
+    {
+        "id": 8,
+        "question": "Danh sách nhập kho trong phần mềm dùng để làm gì?",
+        "answer": "Danh sách nhập giúp người quản lý kho theo dõi và duyệt các phiếu nhập, bao gồm nhập từ nhà cung cấp và nhập chuyển kho.",
+        "context": "Danh sách nhập giúp người quản lý kho theo dõi và duyệt các phiếu nhập, bao gồm nhập từ nhà cung cấp và nhập chuyển kho."
+    },
+    {
+        "id": 9,
+        "question": "Các trạng thái của phiếu nhập trong danh sách nhập là gì?",
+        "answer": "Trạng thái màu vàng là yêu cầu chưa xử lý, màu xanh lá là đã duyệt, và màu đỏ là đã hoàn thành.",
+        "context": "Trạng thái màu vàng là yêu cầu chưa xử lý, màu xanh lá là đã duyệt, và màu đỏ là đã hoàn thành."
+    },
+    {
+        "id": 10,
+        "question": "Xuất kho có những hình thức nào?",
+        "answer": "Xuất kho bao gồm xuất bán, xuất bù cơ số, xuất hao phí, xuất phiếu lĩnh, xuất chuyển kho, và xuất khác.",
+        "context": "Xuất kho bao gồm xuất bán, xuất bù cơ số, xuất hao phí, xuất phiếu lĩnh, xuất chuyển kho, và xuất khác."
+    },
+    {
+        "id": 11,
+        "question": "Xuất bán trong kho là gì?",
+        "answer": "Xuất bán là hình thức xuất kho dành cho các kho kinh doanh hoặc nhà thuốc khi cần bán thuốc.",
+        "context": "Xuất bán là hình thức xuất kho dành cho các kho kinh doanh hoặc nhà thuốc khi cần bán thuốc."
+    },
+    {
+        "id": 12,
+        "question": "Chức năng 'Xuất bù cơ số' dùng để làm gì?",
+        "answer": "Chức năng này giúp xuất bù lại cơ số thuốc đã xuất cho bệnh nhân từ tủ trực.",
+        "context": "Chức năng này giúp xuất bù lại cơ số thuốc đã xuất cho bệnh nhân từ tủ trực."
+    },
+    {
+        "id": 13,
+        "question": "Khi nào cần sử dụng chức năng 'Xuất hao phí khoa phòng'?",
+        "answer": "Chức năng này được sử dụng khi xuất hao phí thuốc và vật tư trong quá trình hoạt động khám chữa bệnh tại khoa phòng.",
+        "context": "Chức năng này được sử dụng khi xuất hao phí thuốc và vật tư trong quá trình hoạt động khám chữa bệnh tại khoa phòng."
+    },
+    {
+        "id": 14,
+        "question": "Làm thế nào để tạo phiếu xuất chuyển kho?",
+        "answer": "Người dùng chọn kho hoặc tủ trực cần chuyển, nhập số lượng thuốc và vật tư, sau đó tạo phiếu và lưu lại.",
+        "context": "Người dùng chọn kho hoặc tủ trực cần chuyển, nhập số lượng thuốc và vật tư, sau đó tạo phiếu và lưu lại."
+    },
+    {
+        "id": 15,
+        "question": "Khi nào cần sử dụng chức năng 'Xuất khác' trong phần mềm kho?",
+        "answer": "Chức năng này được sử dụng trong các trường hợp đặc biệt như xuất hao phí, mất mát hoặc thanh lý thuốc.",
+        "context": "Chức năng này được sử dụng trong các trường hợp đặc biệt như xuất hao phí, mất mát hoặc thanh lý thuốc."
+    },
+    {
+        "id": 16,
+        "question": "Danh sách xuất trong phần mềm dùng để làm gì?",
+        "answer": "Danh sách xuất giúp quản lý tất cả các yêu cầu xuất kho, người dùng có thể xem, duyệt, hoặc từ chối yêu cầu xuất.",
+        "context": "Danh sách xuất giúp quản lý tất cả các yêu cầu xuất kho, người dùng có thể xem, duyệt, hoặc từ chối yêu cầu xuất."
+    },
+    {
+        "id": 17,
+        "question": "Làm thế nào để quản lý tồn kho trong phần mềm?",
+        "answer": "Người dùng có thể xem số lượng tồn kho hiện tại và kiểm tra cảnh báo tồn kho qua màu sắc hiển thị trong phần mềm.",
+        "context": "Người dùng có thể xem số lượng tồn kho hiện tại và kiểm tra cảnh báo tồn kho qua màu sắc hiển thị trong phần mềm."
+    },
+    {
+        "id": 18,
+        "question": "Chức năng dự trù trong phần mềm kho có tác dụng gì?",
+        "answer": "Chức năng dự trù giúp người quản lý kho tạo dự trù nhập thêm thuốc và vật tư vào kho khi cần thiết.",
+        "context": "Chức năng dự trù giúp người quản lý kho tạo dự trù nhập thêm thuốc và vật tư vào kho khi cần thiết."
+    },
+    {
+        "id": 19,
+        "question": "Danh mục trong phần mềm kho dùng để làm gì?",
+        "answer": "Danh mục giúp người dùng thêm, sửa thông tin về thuốc và vật tư hoặc xuất danh sách ra file Excel để quản lý.",
+        "context": "Danh mục giúp người dùng thêm, sửa thông tin về thuốc và vật tư hoặc xuất danh sách ra file Excel để quản lý."
+    },
+    {
+        "id": 20,
+        "question": "Kỳ kho trong phần mềm có chức năng gì?",
+        "answer": "Kỳ kho dùng để chốt số liệu kiểm kê, sau khi chốt kỳ kho, dữ liệu nhập xuất sẽ không thể chỉnh sửa.",
+        "context": "Kỳ kho dùng để chốt số liệu kiểm kê, sau khi chốt kỳ kho, dữ liệu nhập xuất sẽ không thể chỉnh sửa."
+    },
+    {
+        "id": 21,
+        "question": "Làm thế nào để tạo báo cáo trong phần mềm kho?",
+        "answer": "Người dùng chọn biểu tượng báo cáo, sau đó có thể tạo, tìm kiếm, sửa, chia sẻ, hoặc in báo cáo từ phần mềm.",
+        "context": "Người dùng chọn biểu tượng báo cáo, sau đó có thể tạo, tìm kiếm, sửa, chia sẻ, hoặc in báo cáo từ phần mềm."
+    },
+    {
+        "id": 22,
+        "question": "Nguyên nhân gây ra lỗi 'Tên đăng nhập hoặc mật khẩu không chính xác' là gì?",
+        "answer": "Lỗi này có thể xảy ra khi người dùng gõ sai tên đăng nhập hoặc mật khẩu, hoặc mật khẩu đã bị thay đổi.",
+        "context": "Lỗi này có thể xảy ra khi người dùng gõ sai tên đăng nhập hoặc mật khẩu, hoặc mật khẩu đã bị thay đổi."
+    },
+    {
+        "id": 23,
+        "question": "Làm thế nào để khắc phục lỗi 'Tên đăng nhập hoặc mật khẩu không chính xác'?",
+        "answer": "Người dùng cần kiểm tra lại tên đăng nhập và mật khẩu, tắt phần mềm gõ tiếng Việt nếu cần và đăng nhập lại.",
+        "context": "Người dùng cần kiểm tra lại tên đăng nhập và mật khẩu, tắt phần mềm gõ tiếng Việt nếu cần và đăng nhập lại."
+    },
+    {
+        "id": 24,
+        "question": "Lỗi 'Không thể kết nối tới máy chủ' có thể do nguyên nhân gì?",
+        "answer": "Lỗi này có thể do không có kết nối mạng, cấu hình sai địa chỉ máy chủ hoặc phần mềm diệt virus chặn kết nối.",
+        "context": "Lỗi này có thể do không có kết nối mạng, cấu hình sai địa chỉ máy chủ hoặc phần mềm diệt virus chặn kết nối."
+    },
+    {
+        "id": 25,
+        "question": "Làm thế nào để xử lý lỗi 'Không thể kết nối tới máy chủ'?",
+        "answer": "Người dùng cần kiểm tra địa chỉ máy chủ trong file cấu hình, kiểm tra mạng và tường lửa, đảm bảo không có phần mềm chặn kết nối.",
+        "context": "Người dùng cần kiểm tra địa chỉ máy chủ trong file cấu hình, kiểm tra mạng và tường lửa, đảm bảo không có phần mềm chặn kết nối."
+    },
+    {
+        "id": 26,
+        "question": "Làm thế nào để quản lý thuốc tồn kho theo hạn sử dụng?",
+        "answer": "Phần mềm cho phép người dùng tổng hợp tồn kho theo hạn sử dụng để dễ dàng quản lý việc xuất thuốc gần hết hạn.",
+        "context": "Phần mềm cho phép người dùng tổng hợp tồn kho theo hạn sử dụng để dễ dàng quản lý việc xuất thuốc gần hết hạn."
+    },
+    {
+        "id": 27,
+        "question": "Làm thế nào để tạo yêu cầu xuất thuốc cho khoa phòng?",
+        "answer": "Người dùng tạo yêu cầu xuất thuốc từ phân hệ kho, sau đó thủ kho sẽ xem xét và duyệt yêu cầu để xuất thuốc.",
+        "context": "Người dùng tạo yêu cầu xuất thuốc từ phân hệ kho, sau đó thủ kho sẽ xem xét và duyệt yêu cầu để xuất thuốc."
+    },
+    {
+        "id": 28,
+        "question": "Có thể nhập kho từ nhiều nguồn khác nhau không?",
+        "answer": "Có, người dùng có thể nhập kho từ nhiều nguồn như nhà cung cấp, nhập kiểm kê, nhập chuyển kho hoặc nhập hàng tặng.",
+        "context": "Có, người dùng có thể nhập kho từ nhiều nguồn như nhà cung cấp, nhập kiểm kê, nhập chuyển kho hoặc nhập hàng tặng."
+    },
+    {
+        "id": 29,
+        "question": "Người dùng có thể chỉnh sửa thông tin thuốc và vật tư trong phần mềm không?",
+        "answer": "Có, người dùng có thể tìm kiếm, chỉnh sửa và thêm mới thông tin thuốc và vật tư từ danh mục trong phần mềm.",
+        "context": "Có, người dùng có thể tìm kiếm, chỉnh sửa và thêm mới thông tin thuốc và vật tư từ danh mục trong phần mềm."
+    },
+    {
+        "id": 30,
+        "question": "Chức năng tổng hợp phiếu lĩnh trong phần mềm kho dùng để làm gì?",
+        "answer": "Chức năng này cho phép tổng hợp các yêu cầu xuất thuốc của khoa lâm sàng và thực hiện xuất thuốc từ kho nội trú.",
+        "context": "Chức năng này cho phép tổng hợp các yêu cầu xuất thuốc của khoa lâm sàng và thực hiện xuất thuốc từ kho nội trú."
+    },
+    {
+        "id": 31,
+        "question": "Làm thế nào để tạo yêu cầu nhập kho từ nhà cung cấp?",
+        "answer": "Người dùng chọn loại nhập theo thầu hoặc ngoài thầu, điền thông tin nhà cung cấp và số chứng từ để hoàn tất yêu cầu nhập.",
+        "context": "Người dùng chọn loại nhập theo thầu hoặc ngoài thầu, điền thông tin nhà cung cấp và số chứng từ để hoàn tất yêu cầu nhập."
+    },
+    {
+        "id": 32,
+        "question": "Chức năng 'Nhập kiểm kê' trong kho y tế có tác dụng gì?",
+        "answer": "Nhập kiểm kê được sử dụng để điều chỉnh số lượng thuốc và vật tư theo kết quả kiểm kê thực tế.",
+        "context": "Nhập kiểm kê được sử dụng để điều chỉnh số lượng thuốc và vật tư theo kết quả kiểm kê thực tế."
+    },
+    {
+        "id": 33,
+        "question": "Có thể xóa yêu cầu nhập kho sau khi đã duyệt không?",
+        "answer": "Không, yêu cầu nhập kho sau khi đã được duyệt thì không thể xóa mà chỉ có thể xem và kiểm tra.",
+        "context": "Không, yêu cầu nhập kho sau khi đã được duyệt thì không thể xóa mà chỉ có thể xem và kiểm tra."
+    },
+    {
+        "id": 34,
+        "question": "Khi nào cần sử dụng chức năng 'Nhập trả thuốc của khoa phòng'?",
+        "answer": "Chức năng này được sử dụng khi khoa phòng hoàn trả lại thuốc đã lấy nhưng không sử dụng.",
+        "context": "Chức năng này được sử dụng khi khoa phòng hoàn trả lại thuốc đã lấy nhưng không sử dụng."
+    },
+    {
+        "id": 35,
+        "question": "Chức năng 'Xuất bù cơ số' có thể sử dụng trong trường hợp nào?",
+        "answer": "Chức năng này được sử dụng để bù lại cơ số thuốc đã được tủ trực xuất cho bệnh nhân.",
+        "context": "Chức năng này được sử dụng để bù lại cơ số thuốc đã được tủ trực xuất cho bệnh nhân."
+    },
+    {
+        "id": 36,
+        "question": "Làm thế nào để tạo phiếu xuất cho khoa lâm sàng?",
+        "answer": "Người dùng tạo phiếu xuất thuốc dựa trên dự trù của khoa lâm sàng và thực hiện xuất theo yêu cầu đã duyệt.",
+        "context": "Người dùng tạo phiếu xuất thuốc dựa trên dự trù của khoa lâm sàng và thực hiện xuất theo yêu cầu đã duyệt."
+    },
+    {
+        "id": 37,
+        "question": "Có thể quản lý thuốc tồn kho theo lô và hạn sử dụng không?",
+        "answer": "Có, phần mềm cho phép quản lý thuốc tồn kho theo từng lô và hạn sử dụng để đảm bảo thuốc được xuất theo đúng thứ tự.",
+        "context": "Có, phần mềm cho phép quản lý thuốc tồn kho theo từng lô và hạn sử dụng để đảm bảo thuốc được xuất theo đúng thứ tự."
+    },
+    {
+        "id": 38,
+        "question": "Chức năng 'Xuất chuyển kho' dùng để làm gì?",
+        "answer": "Xuất chuyển kho được sử dụng để chuyển thuốc hoặc vật tư từ kho này sang kho khác hoặc từ kho đến tủ trực.",
+        "context": "Xuất chuyển kho được sử dụng để chuyển thuốc hoặc vật tư từ kho này sang kho khác hoặc từ kho đến tủ trực."
+    },
+    {
+        "id": 39,
+        "question": "Chức năng 'Danh sách thầu' trong phần mềm kho có tác dụng gì?",
+        "answer": "Chức năng này cho phép xem, chỉnh sửa, hoặc xóa thông tin các thầu đã tạo và quản lý số lượng thuốc đã nhập từ thầu.",
+        "context": "Chức năng này cho phép xem, chỉnh sửa, hoặc xóa thông tin các thầu đã tạo và quản lý số lượng thuốc đã nhập từ thầu."
+    },
+    {
+        "id": 40,
+        "question": "Làm thế nào để theo dõi thuốc gần hết hạn sử dụng trong kho?",
+        "answer": "Phần mềm sẽ hiển thị cảnh báo màu đỏ cho các loại thuốc và vật tư gần hết hạn sử dụng trong danh sách tồn kho.",
+        "context": "Phần mềm sẽ hiển thị cảnh báo màu đỏ cho các loại thuốc và vật tư gần hết hạn sử dụng trong danh sách tồn kho."
+    },
+    {
+        "id": 41,
+        "question": "Có thể chỉnh sửa thông tin phiếu nhập sau khi đã tạo không?",
+        "answer": "Có, người dùng có thể chỉnh sửa thông tin phiếu nhập trước khi phiếu được duyệt hoặc hoàn tất.",
+        "context": "Có, người dùng có thể chỉnh sửa thông tin phiếu nhập trước khi phiếu được duyệt hoặc hoàn tất."
+    },
+    {
+        "id": 42,
+        "question": "Khi nào nên sử dụng chức năng 'Xuất khác' trong phần mềm kho?",
+        "answer": "Chức năng 'Xuất khác' được sử dụng trong các trường hợp đặc biệt như xuất thanh lý hoặc xuất hao phí ngoài dự kiến.",
+        "context": "Chức năng 'Xuất khác' được sử dụng trong các trường hợp đặc biệt như xuất thanh lý hoặc xuất hao phí ngoài dự kiến."
+    },
+    {
+        "id": 43,
+        "question": "Người dùng có thể làm gì với danh sách xuất trong phần mềm?",
+        "answer": "Người dùng có thể xem, duyệt hoặc từ chối các yêu cầu xuất kho từ danh sách xuất, tùy thuộc vào trạng thái của yêu cầu.",
+        "context": "Người dùng có thể xem, duyệt hoặc từ chối các yêu cầu xuất kho từ danh sách xuất, tùy thuộc vào trạng thái của yêu cầu."
+    },
+    {
+        "id": 44,
+        "question": "Chức năng 'Kỳ kho' có vai trò gì trong phần mềm quản lý kho?",
+        "answer": "Kỳ kho giúp chốt số liệu nhập xuất của kỳ kiểm kê, đảm bảo dữ liệu không bị thay đổi sau khi đã chốt kỳ.",
+        "context": "Kỳ kho giúp chốt số liệu nhập xuất của kỳ kiểm kê, đảm bảo dữ liệu không bị thay đổi sau khi đã chốt kỳ."
+    },
+    {
+        "id": 45,
+        "question": "Làm thế nào để tạo phiếu xuất trả nhà cung cấp?",
+        "answer": "Người dùng tạo yêu cầu xuất trả nhà cung cấp, nhập thông tin nhà cung cấp và lý do trả hàng, sau đó thực hiện xuất trả.",
+        "context": "Người dùng tạo yêu cầu xuất trả nhà cung cấp, nhập thông tin nhà cung cấp và lý do trả hàng, sau đó thực hiện xuất trả."
+    },
+    {
+        "id": 46,
+        "question": "Khi nào cần sử dụng chức năng 'Nhập đầu kỳ'?",
+        "answer": "Chức năng 'Nhập đầu kỳ' được sử dụng khi bắt đầu sử dụng phần mềm để nhập dữ liệu tồn kho ban đầu.",
+        "context": "Chức năng 'Nhập đầu kỳ' được sử dụng khi bắt đầu sử dụng phần mềm để nhập dữ liệu tồn kho ban đầu."
+    },
+    {
+        "id": 47,
+        "question": "Có thể xem lại lịch sử nhập xuất kho trong phần mềm không?",
+        "answer": "Có, người dùng có thể tra cứu lịch sử nhập xuất kho qua các kỳ dữ liệu trong phần mềm để quản lý chi tiết.",
+        "context": "Có, người dùng có thể tra cứu lịch sử nhập xuất kho qua các kỳ dữ liệu trong phần mềm để quản lý chi tiết."
+    },
+    {
+        "id": 48,
+        "question": "Làm sao để kiểm tra tồn kho của một kho cụ thể?",
+        "answer": "Người dùng có thể chọn kho hoặc tủ trực cần kiểm tra từ danh sách để xem tồn kho hiện tại.",
+        "context": "Người dùng có thể chọn kho hoặc tủ trực cần kiểm tra từ danh sách để xem tồn kho hiện tại."
+    },
+    {
+        "id": 49,
+        "question": "Người dùng có thể tạo phiếu xuất bán từ kho nội trú không?",
+        "answer": "Không, chỉ các kho kinh doanh như nhà thuốc mới có thể sử dụng chức năng xuất bán trong phần mềm.",
+        "context": "Không, chỉ các kho kinh doanh như nhà thuốc mới có thể sử dụng chức năng xuất bán trong phần mềm."
+    },
+    {
+        "id": 50,
+        "question": "Khi nào cần sử dụng chức năng 'Tổng hợp tồn kho theo hạn sử dụng'?",
+        "answer": "Chức năng này được sử dụng để tổng hợp thông tin về thuốc còn tồn kho theo hạn sử dụng, giúp quản lý xuất thuốc gần hết hạn.",
+        "context": "Chức năng này được sử dụng để tổng hợp thông tin về thuốc còn tồn kho theo hạn sử dụng, giúp quản lý xuất thuốc gần hết hạn."
+    },
+    {
+        "id": 51,
+        "question": "Chức năng 'Dự trù' có thể sử dụng cho những loại hàng hóa nào?",
+        "answer": "Chức năng dự trù có thể sử dụng cho thuốc, vật tư và máu, giúp nhập thêm hàng hóa khi cần thiết.",
+        "context": "Chức năng dự trù có thể sử dụng cho thuốc, vật tư và máu, giúp nhập thêm hàng hóa khi cần thiết."
+    },
+    {
+        "id": 52,
+        "question": "Có thể tạo nhiều loại báo cáo khác nhau trong phần mềm không?",
+        "answer": "Có, người dùng có thể tạo nhiều loại báo cáo khác nhau tùy vào quyền hạn và nhu cầu quản lý.",
+        "context": "Có, người dùng có thể tạo nhiều loại báo cáo khác nhau tùy vào quyền hạn và nhu cầu quản lý."
+    },
+    {
+        "id": 53,
+        "question": "Làm thế nào để in báo cáo trực tiếp từ phần mềm kho?",
+        "answer": "Người dùng chọn báo cáo cần in và nhấn nút In trực tiếp từ giao diện phần mềm.",
+        "context": "Người dùng chọn báo cáo cần in và nhấn nút In trực tiếp từ giao diện phần mềm."
+    },
+    {
+        "id": 54,
+        "question": "Làm sao để quản lý các yêu cầu xuất chưa xử lý trong phần mềm?",
+        "answer": "Người dùng có thể xem các yêu cầu xuất chưa xử lý trong danh sách xuất với trạng thái màu vàng.",
+        "context": "Người dùng có thể xem các yêu cầu xuất chưa xử lý trong danh sách xuất với trạng thái màu vàng."
+    },
+    {
+        "id": 55,
+        "question": "Chức năng 'Xuất phiếu lĩnh' trong phần mềm kho có tác dụng gì?",
+        "answer": "Chức năng này được sử dụng để xuất thuốc từ kho nội trú dựa trên dự trù của khoa lâm sàng.",
+        "context": "Chức năng này được sử dụng để xuất thuốc từ kho nội trú dựa trên dự trù của khoa lâm sàng."
+    },
+    {
+        "id": 56,
+        "question": "Có thể xem danh sách loại thuốc trong kho như thế nào?",
+        "answer": "Người dùng có thể xem danh sách các loại thuốc từ chức năng danh mục, bao gồm các thông tin về loại thuốc và hạn sử dụng.",
+        "context": "Người dùng có thể xem danh sách các loại thuốc từ chức năng danh mục, bao gồm các thông tin về loại thuốc và hạn sử dụng."
+    },
+    {
+        "id": 57,
+        "question": "Làm thế nào để tra cứu các dữ liệu nhập xuất cũ trong phần mềm?",
+        "answer": "Người dùng có thể tra cứu dữ liệu nhập xuất cũ bằng cách xem lịch sử dữ liệu qua các kỳ kiểm kê.",
+        "context": "Người dùng có thể tra cứu dữ liệu nhập xuất cũ bằng cách xem lịch sử dữ liệu qua các kỳ kiểm kê."
+    },
+    {
+        "id": 58,
+        "question": "Nguyên nhân gây ra lỗi 'Tài khoản chưa được thiết lập quyền truy cập' là gì?",
+        "answer": "Nguyên nhân là do tài khoản chưa được cấp quyền truy cập vào phân hệ kho hoặc thu ngân trong phần mềm.",
+        "context": "Nguyên nhân là do tài khoản chưa được cấp quyền truy cập vào phân hệ kho hoặc thu ngân trong phần mềm."
+    },
+    {
+        "id": 59,
+        "question": "Làm thế nào để xử lý lỗi 'Tài khoản chưa được thiết lập quyền truy cập'?",
+        "answer": "Người dùng cần liên hệ với quản trị viên để cấp quyền truy cập vào phân hệ kho hoặc thu ngân.",
+        "context": "Người dùng cần liên hệ với quản trị viên để cấp quyền truy cập vào phân hệ kho hoặc thu ngân."
+    },
+    {
+        "id": 60,
+        "question": "Chức năng 'Tổng hợp phiếu lĩnh' trong phần mềm được sử dụng khi nào?",
+        "answer": "Chức năng này được sử dụng để tổng hợp các yêu cầu xuất thuốc từ nhiều phiếu lĩnh khác nhau của khoa lâm sàng.",
+        "context": "Chức năng này được sử dụng để tổng hợp các yêu cầu xuất thuốc từ nhiều phiếu lĩnh khác nhau của khoa lâm sàng."
+    }
+]
