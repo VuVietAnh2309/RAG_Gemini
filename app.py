@@ -80,7 +80,8 @@ with gr.Blocks() as iface:
     user_input.submit(generate_response_stream, inputs=[user_input, gr.State([])], outputs=[chatbot])
     submit_button.click(generate_response_stream, inputs=[user_input, gr.State([])], outputs=[chatbot])
 
-    submit_button.click(lambda x: gr.update(value=""), None, [user_input], queue=False)
+    user_input.submit(lambda: "", None, [user_input], queue=False)
+    submit_button.click(lambda: "", None, [user_input], queue=False)
 
 # Tăng concurrency và threads để tối ưu hiệu năng
 iface.queue(default_concurrency_limit=5)
