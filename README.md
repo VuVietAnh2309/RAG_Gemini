@@ -45,6 +45,7 @@ Phiên bản mới của **VA-VSS** tận dụng sức mạnh của **RAG** và 
 !git clone https://github.com/VuVietAnh2309/RAG_Gemini.git
 ```
 
+
 ### Bước 2: Di chuyển vào thư mục dự án
 ``` bash
 %cd /content/RAG_Gemini
@@ -74,5 +75,3 @@ with open('.env', 'w') as f:
 ``` bash
 !python app.py
 ```
-
-      
